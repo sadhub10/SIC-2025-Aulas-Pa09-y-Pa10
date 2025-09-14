@@ -6,7 +6,7 @@ Códigos de clases en Colab del SIC 2025, aulas PA09 Y PA10
 
 ---
 
-## 🚀 Descripción del Proyecto
+## 🚀 Descripción 
 
 Este repositorio ha sido creado para centralizar y organizar todo el material de código generado durante el curso del **Samsung Innovation Campus 2025**. Aquí encontrarás los notebooks de **Google Colab (.ipynb)**, scripts y otros recursos relevantes que se utilicen en las clases.
 
