@@ -1,19 +1,39 @@
-# Colabs-de-Clases
-Códigos de clases en Colab del SIC 2025, aulas PA09 Y PA10
 # 📚 Samsung Innovation Campus 2025: Aulas PA09 y PA10
 
-¡Bienvenidos al repositorio oficial de las clases del **Samsung Innovation Campus 2025** para las aulas **PA09 y PA10**!
+¡Bienvenidos al repositorio oficial y centralizado para el **Samsung Innovation Campus 2025**, dedicado a las aulas **PA09 y PA10**!
+
+Este espacio es el punto de encuentro para todo el material de aprendizaje, **no solo para el código de clases**, sino también para **proyectos, recursos complementarios** e **información de interés** crucial para el curso.
 
 ---
 
-## 🚀 Descripción 
+## 🚀 Alcance y Descripción
 
-Este repositorio ha sido creado para centralizar y organizar todo el material de código generado durante el curso del **Samsung Innovation Campus 2025**. Aquí encontrarás los notebooks de **Google Colab (.ipynb)**, scripts y otros recursos relevantes que se utilicen en las clases.
+El objetivo de este repositorio va más allá de solo almacenar los códigos de clase. Buscamos centralizar y organizar **TODO** el material relevante para las aulas PA09 y PA10. Aquí encontrarás:
 
-El objetivo es proporcionar un acceso fácil y rápido a todos los archivos para su consulta, revisión y práctica, tanto durante como después de las sesiones de clase.
+1.  **Notebooks de Clases:** Los códigos de las sesiones prácticas, principalmente en formato **Google Colab (.ipynb)**.
+2.  **Proyectos:** Espacio para almacenar o referenciar los proyectos y desafíos prácticos que se realicen a lo largo del SIC 2025.
+3.  **Información de Interés:** Documentos, enlaces, datasets, o cualquier recurso adicional que potencie el aprendizaje y la práctica fuera del horario de clase.
+
+El propósito es facilitar un acceso rápido y ordenado a todo lo necesario para su consulta, revisión y desarrollo práctico.
 
 ---
 
 ## 📁 Estructura del Repositorio
 
-La organización del repositorio se basa en módulos o temas, lo que facilita la navegación. Cada carpeta corresponde a una unidad o una clase específica.
+La organización está diseñada para una fácil navegación. Por lo general, se estructura de la siguiente manera:
+
+* **`Clases/`**: Contiene las subcarpetas organizadas por **Módulo** o **Tema**, con todos los notebooks de **Google Colab (.ipynb)** y scripts utilizados en las sesiones.
+* **`Proyectos/`**: Carpeta dedicada a los entregables y recursos de los **proyectos grupales e individuales**.
+* **`Recursos/`**: Material complementario, datasets, enlaces o documentos de **información de interés** general para el curso.
+* **`README.md`**: El documento que estás leyendo.
+
+---
+
+## 💡 Contribución y Uso
+
+Si eres estudiante o instructor de las aulas **PA09 o PA10**:
+
+1.  **Consulta:** Puedes clonar el repositorio o descargar archivos específicos para revisar el material y practicar.
+2.  **Contribución (Solo instructores/asistentes):** Si necesitas añadir o modificar material, por favor, sigue las prácticas estándar de Git (crear *branch* y *Pull Request*) o comunícate con el administrador del repositorio.
+
+¡Que el código y el aprendizaje sigan fluyendo! 🚀
