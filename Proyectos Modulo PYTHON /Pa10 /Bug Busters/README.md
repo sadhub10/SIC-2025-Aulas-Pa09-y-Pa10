@@ -129,14 +129,6 @@ Cada opción genera una **gráfica individual** en pantalla, acompañada de un b
 
 ---
 
-### 👥 5. Créditos del equipo
-
-> **Desarrollado por:**  
-> Juan Castillo · Joseph Batista · Marco Rodríguez · Laura Rivera  
-> © 2025 Samsung Innovation Campus | BusPredict UTP
-
----
-
 ## 🎨 Diseño de la Interfaz
 
 - Basada en **Tkinter**, sin librerías externas de UI.  
