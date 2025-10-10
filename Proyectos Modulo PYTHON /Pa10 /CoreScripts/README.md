@@ -204,12 +204,6 @@ for i, p in enumerate(probs):
 
 ---
 
-## 📝 Licencia
-
-Licencia MIT — ver `LICENSE`.
-
----
-
 ## 📬 Contacto
 
 Coordinador: **Joel Monrroy** 
@@ -219,10 +213,3 @@ Depuración y reportes: **Gustavo De La Rivera**
 
 ---
 
-¡Listo! Si quieres, puedo:
-
-* Generar el `requirements.txt` con versiones recomendadas.
-* Crear `main.py` o la plantilla de `app.py` para Streamlit.
-* Preparar ejemplos de reportes en `reportes/`.
-
-Elige qué quieres que haga a continuación y lo preparo bonito también. ✨
