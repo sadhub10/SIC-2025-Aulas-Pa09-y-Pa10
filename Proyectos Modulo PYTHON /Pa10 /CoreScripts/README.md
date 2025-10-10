@@ -1,6 +1,6 @@
 # HeartRiskSystem
 
-### 🩺 Sistema Predictivo de Riesgo Cardíaco — *Bonito y listo para usar*
+### 🩺 Sistema Predictivo de Riesgo Cardíaco 
 
 <div align="center">
   <img src="assets/image.png" alt="HeartRiskSystem" width="260"/>
