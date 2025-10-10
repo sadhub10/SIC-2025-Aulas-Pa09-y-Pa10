@@ -204,7 +204,7 @@ for i, p in enumerate(probs):
 
 ---
 
-## 📬 Contacto
+## 📬 Equipo de trabajo
 
 Coordinador: **Joel Monrroy** 
 Frontend: **Gabriel Valderrama**
