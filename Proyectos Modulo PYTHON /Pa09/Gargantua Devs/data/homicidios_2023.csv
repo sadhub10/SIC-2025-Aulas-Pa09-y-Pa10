@@ -1,0 +1,557 @@
+﻿VICTIMAS,AÑO,MES,provincia,GÉNERO,RANGO DE EDAD,TIPO DE ARMA UTILIZADA
+Homicidio,2023,Enero,Veraguas,Masculino,55-59 años,Objeto Contundente
+Homicidio,2023,Enero,Bocas Del Toro,Masculino,18-24 años,Arma Blanca
+Homicidio,2023,Enero,Panamá Oeste,Femenino,25-29 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá Oeste,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá Oeste,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá Oeste,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá Oeste,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Enero,Colón ,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Enero,Colón ,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Enero,Colón ,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Enero,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Enero,Colón ,Masculino,60-64 años,Arma de Fuego 
+Homicidio,2023,Enero,Colón ,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Enero,Colón ,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Enero,Chiriquí,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá,Masculino,30-34 años,Arma Blanca
+Homicidio,2023,Enero,Panamá,Masculino,45-49 años,Objeto Contundente
+Homicidio,2023,Enero,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá,Masculino,40-44 años,Objeto Contundente
+Homicidio,2023,Enero,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá,Masculino,80 y más años,Asfixia Mecánica
+Homicidio,2023,Enero,Panamá,Femenino,80 y más años,Asfixia Mecánica
+Homicidio,2023,Enero,Panamá,Femenino,35-39 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá,Masculino,50-54 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,50-54 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,18-24 años,Arma Blanca
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,35-39 años,Sin Determinar
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Enero,Panamá (San Miguelito),Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Enero,Coclé,Masculino,45-49 años,Arma Blanca
+Homicidio,2023,Febrero,Chiriquí,Masculino,18-24 años,Asfixia Mecánica
+Homicidio,2023,Febrero,Chiriquí,Femenino,10-14 años,Sin Determinar
+Homicidio,2023,Febrero,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá (San Miguelito),Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá (San Miguelito),Masculino,30-34 años,Sin Determinar
+Homicidio,2023,Febrero,Panamá (San Miguelito),Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá (San Miguelito),Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá (San Miguelito),Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá (San Miguelito),Femenino,18-24 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá,Masculino,30-34 años,Arma Blanca
+Homicidio,2023,Febrero,Panamá,Masculino,40-44 años,Incendiarismo
+Homicidio,2023,Febrero,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá,Masculino,30-34 años,Objeto Contundente
+Homicidio,2023,Febrero,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá,Masculino,30-34 años,Arma Blanca
+Homicidio,2023,Febrero,Veraguas,Masculino,18-24 años,Arma Blanca
+Homicidio,2023,Febrero,Panamá Oeste,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá Oeste,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Febrero,Coclé,Masculino,Sin Determinar,Arma de Fuego 
+Homicidio,2023,Febrero,Coclé,Masculino,70-74 años,Arma de Fuego 
+Homicidio,2023,Febrero,Coclé,Masculino,Sin Determinar,Arma Blanca
+Homicidio,2023,Febrero,Colón ,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Febrero,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Febrero,Colón ,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Febrero,Colón ,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Febrero,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Febrero,Colón ,Masculino,05-09 años,Arma de Fuego 
+Homicidio,2023,Febrero,Colón ,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Febrero,Colón ,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Febrero,Colón ,Femenino,18-24 años,Arma de Fuego 
+Homicidio,2023,Febrero,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Febrero,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá Oeste,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Febrero,Panamá Oeste,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,febrero,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Marzo,Veraguas,Masculino,50-54 años,Arma de Fuego 
+Homicidio,2023,Marzo,Comarca_Ngäbe_Buglé,Masculino,50-54 años,Arma de Fuego 
+Homicidio,2023,Marzo,Los Santos,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Marzo,Darién,Masculino,60-64 años,Arma Blanca
+Homicidio,2023,Marzo,Emberá Wounaan,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Marzo,Darién,Masculino,25-29 años,Arma Blanca
+Homicidio,2023,Marzo,Herrera,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Marzo,Herrera,Masculino,50-54 años,Objeto Contundente
+Homicidio,2023,Marzo,Herrera,Femenino,35-39 años,Arma Blanca
+Homicidio,2023,Marzo,Colón ,Femenino,40-44 años,Arma de Fuego 
+Homicidio,2023,Marzo,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Marzo,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Marzo,Colón ,Masculino,70-74 años,Incendiarismo
+Homicidio,2023,Marzo,Colón ,Masculino,Sin Determinar,Objeto Contundente
+Homicidio,2023,Marzo,Panamá (San Miguelito),Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá (San Miguelito),Femenino,55-59 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá (San Miguelito),Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá (San Miguelito),Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá (San Miguelito),Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá (San Miguelito),Masculino,Sin Determinar,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá Oeste,Femenino,40-44 años,Arma Blanca
+Homicidio,2023,Marzo,Panamá Oeste,Masculino,60-64 años,Objeto Contundente
+Homicidio,2023,Marzo,Panamá Oeste,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá Oeste,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá Oeste,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,25-29 años,Arma Blanca
+Homicidio,2023,Marzo,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,18-24 años,Objeto Contundente
+Homicidio,2023,Marzo,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,80 y más años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,50-54 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,75-79 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,65-69 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Marzo,Chiriquí,Masculino,30-34 años,Arma Blanca
+Homicidio,2023,Marzo,Panamá,Masculino,50-54 años,Arma de Fuego 
+Homicidio,2023,Marzo,Panamá,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Abril,Veraguas,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Abril,Herrera,Masculino,30-34 años,Arma Blanca
+Homicidio,2023,Abril,Chiriquí,Femenino,18-24 años,Arma Blanca
+Homicidio,2023,Abril,Comarca_Ngäbe_Buglé,Masculino,50-54 años,Arma Blanca
+Homicidio,2023,Abril,Comarca_Ngäbe_Buglé,Masculino,0-4 años,Objeto Contundente
+Homicidio,2023,Abril,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá,Masculino,60-64 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá (San Miguelito),Femenino,35-39 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá (San Miguelito),Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá Oeste,Femenino,35-39 años,Asfixia Mecánica
+Homicidio,2023,Abril,Panamá Oeste,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Abril,Panamá Oeste,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Abril,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Abril,Colón ,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Abril,Colón ,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Abril,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Abril,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Abril,Emberá Wounaan,Masculino,Sin Determinar,Arma de Fuego 
+Homicidio,2023,Abril,Veraguas,Masculino,25-29 años,Objeto Contundente
+Homicidio,2023,Mayo,Darién,Masculino,18-24 años,Arma Blanca
+Homicidio,2023,Mayo,Emberá Wounaan,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Mayo,Emberá Wounaan,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Mayo,Emberá Wounaan,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Mayo,Los Santos,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá (San Miguelito),Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá (San Miguelito),Masculino,10-14 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá (San Miguelito),Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Mayo,Colón ,Femenino,65-69 años,Arma de Fuego 
+Homicidio,2023,Mayo,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Mayo,Colón ,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Mayo,Colón ,Sin Determinar,Sin Determinar,Sin Determinar
+Homicidio,2023,Mayo,Colón ,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Mayo,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Mayo,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Mayo,Colón ,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Mayo,Colón ,Femenino,0-4 años,Arma de Fuego 
+Homicidio,2023,Mayo,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Mayo,Colón ,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Mayo,Herrera,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Mayo,Herrera,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Mayo,Chiriquí,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Mayo,Comarca_Ngäbe_Buglé,Masculino,0-4 años,Sin Determinar
+Homicidio,2023,Mayo,Panamá Oeste,Masculino,15-17 años,Arma Blanca
+Homicidio,2023,Mayo,Panamá Oeste,Masculino,50-54 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá Oeste,Masculino,30-34 años,Arma Blanca
+Homicidio,2023,Mayo,Panamá Oeste,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Mayo,Panamá Oeste,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Junio,Coclé,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Junio,Coclé,Masculino,Sin Determinar,Arma Blanca
+Homicidio,2023,Junio,Panamá,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Femenino,35-39 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Femenino,55-59 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Femenino,40-44 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,65-69 años,Sin Determinar
+Homicidio,2023,Junio,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Femenino,25-29 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Junio,Chiriquí,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Junio,Chiriquí,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá Oeste,Masculino,18-24 años,Asfixia Mecánica
+Homicidio,2023,Junio,Panamá Oeste,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá (San Miguelito),Femenino,15-17 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá (San Miguelito),Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá (San Miguelito),Masculino,Sin Determinar,Arma de Fuego 
+Homicidio,2023,Junio,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá (San Miguelito),Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Junio,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Junio,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Junio,Colón ,Femenino,25-29 años,Arma de Fuego 
+Homicidio,2023,Junio,Colón ,Masculino,Sin Determinar,Arma de Fuego 
+Homicidio,2023,Junio,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Junio,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá Oeste,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá Oeste,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá Oeste,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá Oeste,Femenino,10-14 años,Objeto Contundente
+Homicidio,2023,Julio,Panamá Oeste,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá Oeste,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Julio,Chiriquí,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Julio,Chiriquí,Masculino,25-29 años,Objeto Contundente
+Homicidio,2023,Julio,Chiriquí,Masculino,45-49 años,Arma Blanca
+Homicidio,2023,Julio,Chiriquí,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Julio,Chiriquí,Femenino,30-34 años,Arma Blanca
+Homicidio,2023,Julio,Coclé,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá (San Miguelito),Femenino,25-29 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá (San Miguelito),Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá (San Miguelito),Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá (San Miguelito),Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Julio,Colón ,Masculino,Sin Determinar,Arma de Fuego 
+Homicidio,2023,Julio,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Julio,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Julio,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Julio,Colón ,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Julio,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Julio,Colón ,Masculino,15-17 años,Objeto Contundente
+Homicidio,2023,Julio,Colón ,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Julio,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Julio,BOCAS DEL TORO,Femenino,25-29 años,Arma Blanca
+Homicidio,2023,Julio,Comarca_Ngäbe_Buglé,Femenino,0-4 años,Arma Blanca
+Homicidio,2023,Julio,Comarca_Ngäbe_Buglé,Femenino,0-4 años,Arma Blanca
+Homicidio,2023,Julio,Comarca_Ngäbe_Buglé,Femenino,05-09 años,Arma Blanca
+Homicidio,2023,Julio,Comarca_Ngäbe_Buglé,Masculino,05-09 años,Arma Blanca
+Homicidio,2023,Julio,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá,Masculino,50-54 años,Sin Determinar
+Homicidio,2023,Julio,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá,Femenino,40-44 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Julio,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Julio,Darién,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Julio,Darién,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Julio,Darién,Masculino,Sin Determinar,Arma de Fuego 
+Homicidio,2023,Julio,Los Santos,Femenino,35-39 años,Arma Blanca
+Homicidio,2023,Agosto,Veraguas,Masculino,18-24 años,Arma Blanca
+Homicidio,2023,Agosto,Los Santos,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá,Masculino,50-54 años,Sin Determinar
+Homicidio,2023,Agosto,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá,Sin Determinar,Sin Determinar,Sin Determinar
+Homicidio,2023,Agosto,Panamá,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Agosto,Herrera,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Agosto,Herrera,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Agosto,Herrera,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Agosto,Colón ,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Agosto,Colón ,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Agosto,Colón ,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Agosto,Colón ,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Agosto,Colón ,Masculino,Sin Determinar,Arma de Fuego 
+Homicidio,2023,Agosto,Colón ,Femenino,10-14 años,Sin Determinar
+Homicidio,2023,Agosto,Colón ,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Agosto,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Agosto,Chiriquí,Femenino,65-69 años,Asfixia Mecánica
+Homicidio,2023,Agosto,Panamá (San Miguelito),Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá (San Miguelito),Masculino,50-54 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá (San Miguelito),Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá (San Miguelito),Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá Oeste,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá Oeste,Masculino,25-29 años,Arma Blanca
+Homicidio,2023,Agosto,Panamá Oeste,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá Oeste,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Agosto,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Agosto,Darién,Masculino,75-79 años,Arma Blanca
+Homicidio,2023,Septiembre,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Colón ,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Colón ,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Colón ,Masculino,55-59 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Colón ,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Colón ,Masculino,40-44 años,Sin Determinar
+Homicidio,2023,Septiembre,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá (San Miguelito),Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá (San Miguelito),Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá (San Miguelito),Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá,Masculino,15-17 años,Arma Blanca
+Homicidio,2023,Septiembre,Panamá,Masculino,50-54 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá Oeste,Masculino,45-49 años,Arma Blanca
+Homicidio,2023,Septiembre,Panamá Oeste,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá Oeste,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá Oeste,Femenino,18-24 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá Oeste,Femenino,25-29 años,Arma Blanca
+Homicidio,2023,Septiembre,Panamá Oeste,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Panamá Oeste,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Septiembre,Bocas Del Toro,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá Oeste,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá Oeste,Femenino,30-34 años,Arma de Fuego 
+Homicidio,2023,Octubre,Chiriquí,Masculino,45-49 años,Arma Blanca
+Homicidio,2023,Octubre,Chiriquí,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Octubre,Coclé,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Octubre,Coclé,Masculino,55-59 años,Arma de Fuego 
+Homicidio,2023,Octubre,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Octubre,Colón ,Masculino,18-24 años,Arma Blanca
+Homicidio,2023,Octubre,Colón ,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Octubre,Colón ,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Octubre,Colón ,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Octubre,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Octubre,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Octubre,Colón ,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá (San Miguelito),Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá (San Miguelito),Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá (San Miguelito),Masculino,60-64 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá (San Miguelito),Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá,Femenino,05-09 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá,Femenino,18-24 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Octubre,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Octubre,Emberá Wounaan,Sin Determinar,Sin Determinar,Sin Determinar
+Homicidio,2023,Noviembre,Colón ,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Colón ,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Colón ,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Colón ,Masculino,Sin Determinar,Arma de Fuego 
+Homicidio,2023,Noviembre,Colón ,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Colón ,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Colón ,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Colón ,Masculino,Sin Determinar,Sin Determinar
+Homicidio,2023,Noviembre,Colón ,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Colón ,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Veraguas,Masculino,65-69 años,Arma Blanca
+Homicidio,2023,Noviembre,Panamá,Masculino,45-49 años,Sin Determinar
+Homicidio,2023,Noviembre,Panamá,Masculino,45-49 años,Arma Blanca
+Homicidio,2023,Noviembre,Panamá,Masculino,50-54 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,45-49 años,Arma Blanca
+Homicidio,2023,Noviembre,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Femenino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Femenino,10-14 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,55-59 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,25-29 años,Arma Blanca
+Homicidio,2023,Noviembre,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,50-54 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,40-44 años,Arma Blanca
+Homicidio,2023,Noviembre,Panamá,Masculino,50-54 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,Sin Determinar,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,Sin Determinar,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Darién,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Chiriquí,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Chiriquí,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá Oeste,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá Oeste,Masculino,60-64 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá Oeste,Masculino,50-54 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá Oeste,Femenino,80 y más años,Arma Blanca
+Homicidio,2023,Noviembre,Panamá Oeste,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá Oeste,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá Oeste,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá Oeste,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Coclé,Femenino,25-29 años,Asfixia Mecánica
+Homicidio,2023,Noviembre,Panamá (San Miguelito),Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá (San Miguelito),Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá (San Miguelito),Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá (San Miguelito),Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá (San Miguelito),Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá (San Miguelito),Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Panamá (San Miguelito),Femenino,55-59 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Colón ,Femenino,10-14 años,Arma de Fuego 
+Homicidio,2023,Noviembre,Bocas Del Toro,Masculino,Sin Determinar,Sin Determinar
+Homicidio,2023,Diciembre,Coclé,Masculino,75-79 años,Sin Determinar
+Homicidio,2023,Diciembre,Herrera,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Coclé,Masculino,50-54 años,Golpes
+Homicidio,2023,Diciembre,Colón ,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Colón ,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Colón ,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Colón ,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Colón ,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Colón ,Femenino,30-34 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Los Santos,Masculino,60-64 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Los Santos,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá Oeste,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá Oeste,Masculino,80 y más años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá Oeste,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá Oeste,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá Oeste,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá Oeste,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá Oeste,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá Oeste,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá Oeste,Masculino,15-17 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá Oeste,Sin Determinar,Sin Determinar,Arma de Fuego 
+Homicidio,2023,Diciembre,Chiriquí,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Chiriquí,Masculino,50-54 años,Sin Determinar
+Homicidio,2023,Diciembre,Chiriquí,Masculino,Sin Determinar,Sin Determinar
+Homicidio,2023,Diciembre,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Masculino,35-39 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Masculino,55-59 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Femenino,35-39 años,Arma Blanca
+Homicidio,2023,Diciembre,Panamá,Masculino,10-14 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Femenino,40-44 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Masculino,40-44 años,Arma Blanca
+Homicidio,2023,Diciembre,Panamá,Masculino,40-44 años,Arma Blanca
+Homicidio,2023,Diciembre,Panamá,Masculino,45-49 años,Golpes
+Homicidio,2023,Diciembre,Panamá,Masculino,45-49 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Masculino,40-44 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Masculino,18-24 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá (San Miguelito),Masculino,25-29 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá (San Miguelito),Masculino,Sin Determinar,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá (San Miguelito),Masculino,Sin Determinar,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá (San Miguelito),Masculino,18-24 años,Sin Determinar
+Homicidio,2023,Diciembre,Panamá (San Miguelito),Masculino,10-14 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá (San Miguelito),Masculino,30-34 años,Arma de Fuego 
+Homicidio,2023,Diciembre,Panamá,Masculino,18-24 años,Arma de Fuego 
