@@ -3,7 +3,7 @@
 # ❤️ **HeartRiskSystem**
 ### 🩺 *Sistema Predictivo de Riesgo Cardíaco Basado en Machine Learning*
 
-<img src="assets/image.png" alt="HeartRiskSystem" width="350"/>
+<img src="assets/image.png" alt="HeartRiskSystem" width="260"/>
 
 **Análisis inteligente, diagnóstico preventivo y apoyo clínico con datos médicos reales.**
 
