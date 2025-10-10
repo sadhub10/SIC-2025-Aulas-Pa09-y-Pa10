@@ -1,0 +1,49 @@
+======================================================================
+REPORTE MÉDICO CARDIOVASCULAR
+======================================================================
+
+Fecha: 08/10/2025 21:42:49
+
+DATOS DEL PACIENTE:
+----------------------------------------------------------------------
+Edad: 50 años | Sexo: Masculino
+Presión Arterial: 150 mmHg
+Colesterol: 120 mg/dl
+Probabilidad de Enfermedad: 73.0%
+Riesgo Framingham: 20%
+
+FACTORES DE RIESGO:
+----------------------------------------------------------------------
+• Hipertensión arterial (150 mmHg)
+• Hiperglucemia en ayunas (diabetes/prediabetes)
+• Capacidad funcional severamente reducida (FC: 50 lpm)
+• Angina inducida por ejercicio (altamente significativo)
+• Depresión ST moderada (1.5 mm)
+• Enfermedad coronaria de un vaso
+
+Puntuación total: 14 puntos
+
+RECOMENDACIONES:
+----------------------------------------------------------------------
+🚨 MEDIDAS URGENTES:
+   - Evaluación cardiológica inmediata
+   - Considerar hospitalización
+
+💊 Farmacoterapia sugerida:
+   - Antiagregante plaquetario (Aspirina 100mg/día)
+   - Betabloqueador
+   - IECA o ARA-II para control de presión
+
+🏃 Modificaciones del estilo de vida:
+   - Dieta cardioprotectora (tipo mediterránea)
+   - Ejercicio aeróbico 150 min/semana
+   - Cesación completa de tabaquismo
+   - Control de peso (IMC 18.5-24.9)
+
+📅 Plan de seguimiento:
+   - Evaluación inmediata con cardiólogo
+
+======================================================================
+NOTA: Este reporte es una herramienta de apoyo diagnóstico.
+NO reemplaza el juicio clínico del médico tratante.
+======================================================================

@@ -1,0 +1,49 @@
+======================================================================
+REPORTE MÉDICO CARDIOVASCULAR
+======================================================================
+
+Fecha: 08/10/2025 23:42:07
+Paciente: Joel Monrroy
+Cédula: 8-1345-353
+
+DATOS DEL PACIENTE:
+----------------------------------------------------------------------
+Edad: 50 años | Sexo: Masculino
+Presión Arterial: 120 mmHg
+Colesterol: 150 mg/dl
+Glucemia >120: Sí
+FC Máxima: 160 lpm
+Angina por ejercicio: No
+Depresión ST: 1.0 mm
+Vasos con estenosis: 0
+
+EVALUACIÓN DE RIESGO:
+----------------------------------------------------------------------
+Probabilidad de Enfermedad: 23.7%
+Nivel de Riesgo: BAJO
+Riesgo Framingham (10 años): 10%
+
+FACTORES DE RIESGO:
+----------------------------------------------------------------------
+• Hiperglucemia en ayunas (diabetes/prediabetes)
+
+Puntuación total: 2 puntos
+
+RECOMENDACIONES:
+----------------------------------------------------------------------
+
+💊 Farmacoterapia sugerida:
+
+🏃 Modificaciones del estilo de vida:
+   - Dieta cardioprotectora (tipo mediterránea)
+   - Ejercicio aeróbico 150 min/semana
+   - Cesación completa de tabaquismo
+   - Control de peso (IMC 18.5-24.9)
+
+📅 Plan de seguimiento:
+   - Control en 1-3 meses
+
+======================================================================
+NOTA: Este reporte es una herramienta de apoyo diagnóstico.
+NO reemplaza el juicio clínico del médico tratante.
+======================================================================

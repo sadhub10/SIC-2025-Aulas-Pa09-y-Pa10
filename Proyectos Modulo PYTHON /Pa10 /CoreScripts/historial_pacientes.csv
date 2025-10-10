@@ -1,0 +1,4 @@
+Fecha_Registro,Hora_Registro,Nombre,Cedula,Edad,Sexo,Presion_Arterial,Colesterol,Glucemia_Mayor_120,FC_Maxima,Dolor_Ejercicio,Depresion_ST,Vasos_Estenosis,Probabilidad_Enfermedad_%,Nivel_Riesgo,Riesgo_Framingham_%,Puntos_Factores_Riesgo
+08/10/2025,23:53:54,Joel Monrroy,8-1335-2345,50,Masculino,120,150,Sí,160,No,1.0,0,23.7,BAJO,10,2
+08/10/2025,23:57:35,Helen Alvarado,10-455-1313,60,Femenino,160,120,Sí,100,Sí,1.7,1,81.0,ALTO,10,16
+09/10/2025,07:13:17,Jehu Rodrigues,9-2321-34234,70,Masculino,120,160,Sí,140,No,1.0,0,33.78,MODERADO,20,4

@@ -1,0 +1,304 @@
+Edad,Sexo,Tipo_Dolor_Pecho,Presion_Arterial_Reposo,Colesterol,Glucemia_Ayunas_Mayor_120,Electrocardiograma_Reposo,Frecuencia_Cardiaca_Maxima,Dolor_Inducido_Ejercicio,DepresionST_Ejercicio,PendienteST_Ejercicio,Vasos_Principales_Color_Fluor,Talasemia,Enfermedad_Cardiaca
+63,H,Asintomático,145.0,233.0,Sí,Hipertrofia Ventricular,150,No,2.3,Descendente,0,Defecto Fijo,No
+67,H,Dolor No Anginal,160.0,286.0,No,Hipertrofia Ventricular,108,Sí,1.5,Plana,3,Normal,Sí
+67,H,Dolor No Anginal,120.0,229.0,No,Hipertrofia Ventricular,129,Sí,2.6,Plana,2,Defecto Reversible,Sí
+37,H,Angina Atípica,130.0,250.0,No,Normal,187,No,3.5,Descendente,0,Normal,No
+41,M,Angina Típica,130.0,204.0,No,Hipertrofia Ventricular,172,No,1.4,Ascendente,0,Normal,No
+56,H,Angina Típica,120.0,236.0,No,Normal,178,No,0.8,Ascendente,0,Normal,No
+62,M,Dolor No Anginal,140.0,268.0,No,Hipertrofia Ventricular,160,No,3.6,Descendente,2,Normal,Sí
+57,M,Dolor No Anginal,120.0,354.0,No,Normal,163,Sí,0.6,Ascendente,0,Normal,No
+63,H,Dolor No Anginal,130.0,254.0,No,Hipertrofia Ventricular,147,No,1.4,Plana,1,Defecto Reversible,Sí
+53,H,Dolor No Anginal,140.0,203.0,Sí,Hipertrofia Ventricular,155,Sí,3.1,Descendente,0,Defecto Reversible,Sí
+57,H,Dolor No Anginal,140.0,192.0,No,Normal,148,No,0.4,Plana,0,Defecto Fijo,No
+56,M,Angina Típica,140.0,294.0,No,Hipertrofia Ventricular,153,No,1.3,Plana,0,Normal,No
+56,H,Angina Atípica,130.0,256.0,Sí,Hipertrofia Ventricular,142,Sí,0.6,Plana,1,Defecto Fijo,Sí
+44,H,Angina Típica,120.0,263.0,No,Normal,173,No,0.0,Ascendente,0,Defecto Reversible,No
+52,H,Angina Atípica,170.0,199.0,Sí,Normal,162,No,0.5,Ascendente,0,Defecto Reversible,No
+57,H,Angina Atípica,150.0,168.0,No,Normal,174,No,1.6,Ascendente,0,Normal,No
+48,H,Angina Típica,110.0,229.0,No,Normal,168,No,1.0,Descendente,0,Defecto Reversible,Sí
+54,H,Dolor No Anginal,140.0,239.0,No,Normal,160,No,1.2,Ascendente,0,Normal,No
+48,M,Angina Atípica,130.0,275.0,No,Normal,139,No,0.2,Ascendente,0,Normal,No
+49,H,Angina Típica,130.0,266.0,No,Normal,171,No,0.6,Ascendente,0,Normal,No
+64,H,Asintomático,110.0,211.0,No,Hipertrofia Ventricular,144,Sí,1.8,Plana,0,Normal,No
+58,M,Asintomático,150.0,283.0,Sí,Hipertrofia Ventricular,162,No,1.0,Ascendente,0,Normal,No
+58,H,Angina Típica,120.0,284.0,No,Hipertrofia Ventricular,160,No,1.8,Plana,0,Normal,Sí
+58,H,Angina Atípica,132.0,224.0,No,Hipertrofia Ventricular,173,No,3.2,Ascendente,2,Defecto Reversible,Sí
+60,H,Dolor No Anginal,130.0,206.0,No,Hipertrofia Ventricular,132,Sí,2.4,Plana,2,Defecto Reversible,Sí
+50,M,Angina Atípica,120.0,219.0,No,Normal,158,No,1.6,Plana,0,Normal,No
+58,M,Angina Atípica,120.0,340.0,No,Normal,172,No,0.0,Ascendente,0,Normal,No
+66,M,Asintomático,150.0,226.0,No,Normal,114,No,2.6,Descendente,0,Normal,No
+43,H,Dolor No Anginal,150.0,247.0,No,Normal,171,No,1.5,Ascendente,0,Normal,No
+40,H,Dolor No Anginal,110.0,167.0,No,Hipertrofia Ventricular,114,Sí,2.0,Plana,0,Defecto Reversible,Sí
+69,M,Asintomático,140.0,239.0,No,Normal,151,No,1.8,Ascendente,2,Normal,No
+60,H,Dolor No Anginal,117.0,230.0,Sí,Normal,160,Sí,1.4,Ascendente,2,Defecto Reversible,Sí
+64,H,Angina Atípica,140.0,335.0,No,Normal,158,No,0.0,Ascendente,0,Normal,Sí
+59,H,Dolor No Anginal,135.0,234.0,No,Normal,161,No,0.5,Plana,0,Defecto Reversible,No
+44,H,Angina Atípica,130.0,233.0,No,Normal,179,Sí,0.4,Ascendente,0,Normal,No
+42,H,Dolor No Anginal,140.0,226.0,No,Normal,178,No,0.0,Ascendente,0,Normal,No
+43,H,Dolor No Anginal,120.0,177.0,No,Hipertrofia Ventricular,120,Sí,2.5,Plana,0,Defecto Reversible,Sí
+57,H,Dolor No Anginal,150.0,276.0,No,Hipertrofia Ventricular,112,Sí,0.6,Plana,1,Defecto Fijo,Sí
+55,H,Dolor No Anginal,132.0,353.0,No,Normal,132,Sí,1.2,Plana,1,Defecto Reversible,Sí
+61,H,Angina Atípica,150.0,243.0,Sí,Normal,137,Sí,1.0,Plana,0,Normal,No
+65,M,Dolor No Anginal,150.0,225.0,No,Hipertrofia Ventricular,114,No,1.0,Plana,3,Defecto Reversible,Sí
+40,H,Asintomático,140.0,199.0,No,Normal,178,Sí,1.4,Ascendente,0,Defecto Reversible,No
+71,M,Angina Típica,160.0,302.0,No,Normal,162,No,0.4,Ascendente,2,Normal,No
+59,H,Angina Atípica,150.0,212.0,Sí,Normal,157,No,1.6,Ascendente,0,Normal,No
+61,M,Dolor No Anginal,130.0,330.0,No,Hipertrofia Ventricular,169,No,0.0,Ascendente,0,Normal,Sí
+58,H,Angina Atípica,112.0,230.0,No,Hipertrofia Ventricular,165,No,2.5,Plana,1,Defecto Reversible,Sí
+51,H,Angina Atípica,110.0,175.0,No,Normal,123,No,0.6,Ascendente,0,Normal,No
+50,H,Dolor No Anginal,150.0,243.0,No,Hipertrofia Ventricular,128,No,2.6,Plana,0,Defecto Reversible,Sí
+65,M,Angina Atípica,140.0,371.0,Sí,Hipertrofia Ventricular,157,No,0.8,Ascendente,1,Normal,No
+53,H,Angina Atípica,130.0,197.0,Sí,Hipertrofia Ventricular,152,No,1.2,Descendente,0,Normal,No
+41,M,Angina Típica,105.0,198.0,No,Normal,168,No,0.0,Ascendente,1,Normal,No
+65,H,Dolor No Anginal,120.0,177.0,No,Normal,140,No,0.4,Ascendente,0,Defecto Reversible,No
+44,H,Dolor No Anginal,112.0,290.0,No,Hipertrofia Ventricular,153,No,0.0,Ascendente,1,Normal,Sí
+44,H,Angina Típica,130.0,219.0,No,Hipertrofia Ventricular,188,No,0.0,Ascendente,0,Normal,No
+60,H,Dolor No Anginal,130.0,253.0,No,Normal,144,Sí,1.4,Ascendente,1,Defecto Reversible,Sí
+54,H,Dolor No Anginal,124.0,266.0,No,Hipertrofia Ventricular,109,Sí,2.2,Plana,1,Defecto Reversible,Sí
+50,H,Angina Atípica,140.0,233.0,No,Normal,163,No,0.6,Plana,1,Defecto Reversible,Sí
+41,H,Dolor No Anginal,110.0,172.0,No,Hipertrofia Ventricular,158,No,0.0,Ascendente,0,Defecto Reversible,Sí
+54,H,Angina Atípica,125.0,273.0,No,Hipertrofia Ventricular,152,No,0.5,Descendente,1,Normal,No
+51,H,Asintomático,125.0,213.0,No,Hipertrofia Ventricular,125,Sí,1.4,Ascendente,1,Normal,No
+51,M,Dolor No Anginal,130.0,305.0,No,Normal,142,Sí,1.2,Plana,0,Defecto Reversible,Sí
+46,M,Angina Atípica,142.0,177.0,No,Hipertrofia Ventricular,160,Sí,1.4,Descendente,0,Normal,No
+58,H,Dolor No Anginal,128.0,216.0,No,Hipertrofia Ventricular,131,Sí,2.2,Plana,3,Defecto Reversible,Sí
+54,M,Angina Atípica,135.0,304.0,Sí,Normal,170,No,0.0,Ascendente,0,Normal,No
+54,H,Dolor No Anginal,120.0,188.0,No,Normal,113,No,1.4,Plana,1,Defecto Reversible,Sí
+60,H,Dolor No Anginal,145.0,282.0,No,Hipertrofia Ventricular,142,Sí,2.8,Plana,2,Defecto Reversible,Sí
+60,H,Angina Atípica,140.0,185.0,No,Hipertrofia Ventricular,155,No,3.0,Plana,0,Normal,Sí
+54,H,Angina Atípica,150.0,232.0,No,Hipertrofia Ventricular,165,No,1.6,Ascendente,0,Defecto Reversible,No
+59,H,Dolor No Anginal,170.0,326.0,No,Hipertrofia Ventricular,140,Sí,3.4,Descendente,0,Defecto Reversible,Sí
+46,H,Angina Atípica,150.0,231.0,No,Normal,147,No,3.6,Plana,0,Normal,Sí
+65,M,Angina Atípica,155.0,269.0,No,Normal,148,No,0.8,Ascendente,0,Normal,No
+67,H,Dolor No Anginal,125.0,254.0,Sí,Normal,163,No,0.2,Plana,2,Defecto Reversible,Sí
+62,H,Dolor No Anginal,120.0,267.0,No,Normal,99,Sí,1.8,Plana,2,Defecto Reversible,Sí
+65,H,Dolor No Anginal,110.0,248.0,No,Hipertrofia Ventricular,158,No,0.6,Ascendente,2,Defecto Fijo,Sí
+44,H,Dolor No Anginal,110.0,197.0,No,Hipertrofia Ventricular,177,No,0.0,Ascendente,1,Normal,Sí
+65,M,Angina Atípica,160.0,360.0,No,Hipertrofia Ventricular,151,No,0.8,Ascendente,0,Normal,No
+60,H,Dolor No Anginal,125.0,258.0,No,Hipertrofia Ventricular,141,Sí,2.8,Plana,1,Defecto Reversible,Sí
+51,M,Angina Atípica,140.0,308.0,No,Hipertrofia Ventricular,142,No,1.5,Ascendente,1,Normal,No
+48,H,Angina Típica,130.0,245.0,No,Hipertrofia Ventricular,180,No,0.2,Plana,0,Normal,No
+58,H,Dolor No Anginal,150.0,270.0,No,Hipertrofia Ventricular,111,Sí,0.8,Ascendente,0,Defecto Reversible,Sí
+45,H,Dolor No Anginal,104.0,208.0,No,Hipertrofia Ventricular,148,Sí,3.0,Plana,0,Normal,No
+53,M,Dolor No Anginal,130.0,264.0,No,Hipertrofia Ventricular,143,No,0.4,Plana,0,Normal,No
+39,H,Angina Atípica,140.0,321.0,No,Hipertrofia Ventricular,182,No,0.0,Ascendente,0,Normal,No
+68,H,Angina Atípica,170.0,274.0,Sí,Hipertrofia Ventricular,150,Sí,1.6,Plana,0,Defecto Reversible,Sí
+52,H,Angina Típica,120.0,325.0,No,Normal,172,No,0.2,Ascendente,0,Normal,No
+44,H,Angina Atípica,140.0,235.0,No,Hipertrofia Ventricular,180,No,0.0,Ascendente,0,Normal,No
+47,H,Angina Atípica,138.0,257.0,No,Hipertrofia Ventricular,156,No,0.0,Ascendente,0,Normal,No
+53,M,Angina Atípica,128.0,216.0,No,Hipertrofia Ventricular,115,No,0.0,Ascendente,0,Normal,No
+53,M,Dolor No Anginal,138.0,234.0,No,Hipertrofia Ventricular,160,No,0.0,Ascendente,0,Normal,No
+51,M,Angina Atípica,130.0,256.0,No,Hipertrofia Ventricular,149,No,0.5,Ascendente,0,Normal,No
+66,H,Dolor No Anginal,120.0,302.0,No,Hipertrofia Ventricular,151,No,0.4,Plana,0,Normal,No
+62,M,Dolor No Anginal,160.0,164.0,No,Hipertrofia Ventricular,145,No,4.0,Descendente,3,Defecto Reversible,Sí
+62,H,Angina Atípica,130.0,231.0,No,Normal,146,No,1.8,Plana,3,Defecto Reversible,No
+44,M,Angina Atípica,108.0,141.0,No,Normal,175,No,0.6,Plana,0,Normal,No
+63,M,Angina Atípica,135.0,252.0,No,Hipertrofia Ventricular,172,No,0.0,Ascendente,0,Normal,No
+52,H,Dolor No Anginal,128.0,255.0,No,Normal,161,Sí,0.0,Ascendente,1,Defecto Reversible,Sí
+59,H,Dolor No Anginal,110.0,239.0,No,Hipertrofia Ventricular,142,Sí,1.2,Plana,1,Defecto Reversible,Sí
+60,M,Dolor No Anginal,150.0,258.0,No,Hipertrofia Ventricular,157,No,2.6,Plana,2,Defecto Reversible,Sí
+52,H,Angina Típica,134.0,201.0,No,Normal,158,No,0.8,Ascendente,1,Normal,No
+48,H,Dolor No Anginal,122.0,222.0,No,Hipertrofia Ventricular,186,No,0.0,Ascendente,0,Normal,No
+45,H,Dolor No Anginal,115.0,260.0,No,Hipertrofia Ventricular,185,No,0.0,Ascendente,0,Normal,No
+34,H,Asintomático,118.0,182.0,No,Hipertrofia Ventricular,174,No,0.0,Ascendente,0,Normal,No
+57,M,Dolor No Anginal,128.0,303.0,No,Hipertrofia Ventricular,159,No,0.0,Ascendente,1,Normal,No
+71,M,Angina Atípica,110.0,265.0,Sí,Hipertrofia Ventricular,130,No,0.0,Ascendente,1,Normal,No
+49,H,Angina Atípica,120.0,188.0,No,Normal,139,No,2.0,Plana,3,Defecto Reversible,Sí
+54,H,Angina Típica,108.0,309.0,No,Normal,156,No,0.0,Ascendente,0,Defecto Reversible,No
+59,H,Dolor No Anginal,140.0,177.0,No,Normal,162,Sí,0.0,Ascendente,1,Defecto Reversible,Sí
+57,H,Angina Atípica,128.0,229.0,No,Hipertrofia Ventricular,150,No,0.4,Plana,1,Defecto Reversible,Sí
+61,H,Dolor No Anginal,120.0,260.0,No,Normal,140,Sí,3.6,Plana,1,Defecto Reversible,Sí
+39,H,Dolor No Anginal,118.0,219.0,No,Normal,140,No,1.2,Plana,0,Defecto Reversible,Sí
+61,M,Dolor No Anginal,145.0,307.0,No,Hipertrofia Ventricular,146,Sí,1.0,Plana,0,Defecto Reversible,Sí
+56,H,Dolor No Anginal,125.0,249.0,Sí,Hipertrofia Ventricular,144,Sí,1.2,Plana,1,Normal,Sí
+52,H,Asintomático,118.0,186.0,No,Hipertrofia Ventricular,190,No,0.0,Plana,0,Defecto Fijo,No
+43,M,Dolor No Anginal,132.0,341.0,Sí,Hipertrofia Ventricular,136,Sí,3.0,Plana,0,Defecto Reversible,Sí
+62,M,Angina Atípica,130.0,263.0,No,Normal,97,No,1.2,Plana,1,Defecto Reversible,Sí
+41,H,Angina Típica,135.0,203.0,No,Normal,132,No,0.0,Plana,0,Defecto Fijo,No
+58,H,Angina Atípica,140.0,211.0,Sí,Hipertrofia Ventricular,165,No,0.0,Ascendente,0,Normal,No
+35,M,Dolor No Anginal,138.0,183.0,No,Normal,182,No,1.4,Ascendente,0,Normal,No
+63,H,Dolor No Anginal,130.0,330.0,Sí,Hipertrofia Ventricular,132,Sí,1.8,Ascendente,3,Defecto Reversible,Sí
+65,H,Dolor No Anginal,135.0,254.0,No,Hipertrofia Ventricular,127,No,2.8,Plana,1,Defecto Reversible,Sí
+48,H,Dolor No Anginal,130.0,256.0,Sí,Hipertrofia Ventricular,150,Sí,0.0,Ascendente,2,Defecto Reversible,Sí
+63,M,Dolor No Anginal,150.0,371.0,No,Hipertrofia Ventricular,154,No,4.0,Plana,3,Defecto Reversible,Sí
+51,H,Angina Atípica,100.0,222.0,No,Normal,143,Sí,1.2,Plana,0,Normal,No
+55,H,Dolor No Anginal,140.0,217.0,No,Normal,111,Sí,4.0,Descendente,0,Defecto Reversible,Sí
+65,H,Asintomático,138.0,282.0,Sí,Hipertrofia Ventricular,174,No,1.4,Plana,1,Normal,Sí
+45,M,Angina Típica,130.0,234.0,No,Hipertrofia Ventricular,175,No,0.6,Plana,0,Normal,No
+56,M,Dolor No Anginal,170.0,288.0,Sí,Hipertrofia Ventricular,133,Sí,4.0,Descendente,2,Defecto Reversible,Sí
+54,H,Dolor No Anginal,110.0,239.0,No,Normal,126,Sí,2.8,Plana,1,Defecto Reversible,Sí
+44,H,Angina Típica,120.0,220.0,No,Normal,170,No,0.0,Ascendente,0,Normal,No
+62,M,Dolor No Anginal,124.0,209.0,No,Normal,163,No,0.0,Ascendente,0,Normal,No
+54,H,Angina Atípica,120.0,258.0,No,Hipertrofia Ventricular,147,No,0.4,Plana,0,Defecto Reversible,No
+51,H,Angina Atípica,94.0,227.0,No,Normal,154,Sí,0.0,Ascendente,1,Defecto Reversible,No
+29,H,Angina Típica,130.0,204.0,No,Hipertrofia Ventricular,202,No,0.0,Ascendente,0,Normal,No
+51,H,Dolor No Anginal,140.0,261.0,No,Hipertrofia Ventricular,186,Sí,0.0,Ascendente,0,Normal,No
+43,M,Angina Atípica,122.0,213.0,No,Normal,165,No,0.2,Plana,0,Normal,No
+55,M,Angina Típica,135.0,250.0,No,Hipertrofia Ventricular,161,No,1.4,Plana,0,Normal,No
+70,H,Dolor No Anginal,145.0,174.0,No,Normal,125,Sí,2.6,Descendente,0,Defecto Reversible,Sí
+62,H,Angina Típica,120.0,281.0,No,Hipertrofia Ventricular,103,No,1.4,Plana,1,Defecto Reversible,Sí
+35,H,Dolor No Anginal,120.0,198.0,No,Normal,130,Sí,1.6,Plana,0,Defecto Reversible,Sí
+51,H,Angina Atípica,125.0,245.0,Sí,Hipertrofia Ventricular,166,No,2.4,Plana,0,Normal,No
+59,H,Angina Típica,140.0,221.0,No,Normal,164,Sí,0.0,Ascendente,0,Normal,No
+59,H,Asintomático,170.0,288.0,No,Hipertrofia Ventricular,159,No,0.2,Plana,0,Defecto Reversible,Sí
+52,H,Angina Típica,128.0,205.0,Sí,Normal,184,No,0.0,Ascendente,0,Normal,No
+64,H,Angina Atípica,125.0,309.0,No,Normal,131,Sí,1.8,Plana,0,Defecto Reversible,Sí
+58,H,Angina Atípica,105.0,240.0,No,Hipertrofia Ventricular,154,Sí,0.6,Plana,0,Defecto Reversible,No
+47,H,Angina Atípica,108.0,243.0,No,Normal,152,No,0.0,Ascendente,0,Normal,Sí
+57,H,Dolor No Anginal,165.0,289.0,Sí,Hipertrofia Ventricular,124,No,1.0,Plana,3,Defecto Reversible,Sí
+41,H,Angina Atípica,112.0,250.0,No,Normal,179,No,0.0,Ascendente,0,Normal,No
+45,H,Angina Típica,128.0,308.0,No,Hipertrofia Ventricular,170,No,0.0,Ascendente,0,Normal,No
+60,M,Angina Atípica,102.0,318.0,No,Normal,160,No,0.0,Ascendente,1,Normal,No
+52,H,Asintomático,152.0,298.0,Sí,Normal,178,No,1.2,Plana,0,Defecto Reversible,No
+42,M,Dolor No Anginal,102.0,265.0,No,Hipertrofia Ventricular,122,No,0.6,Plana,0,Normal,No
+67,M,Angina Atípica,115.0,371.0,No,Hipertrofia Ventricular,160,No,1.6,Plana,0,Defecto Reversible,No
+55,H,Dolor No Anginal,160.0,289.0,No,Hipertrofia Ventricular,145,Sí,0.8,Plana,1,Defecto Reversible,Sí
+64,H,Dolor No Anginal,120.0,246.0,No,Hipertrofia Ventricular,96,Sí,2.2,Descendente,1,Normal,Sí
+70,H,Dolor No Anginal,130.0,322.0,No,Hipertrofia Ventricular,109,No,2.4,Plana,3,Normal,Sí
+51,H,Dolor No Anginal,140.0,299.0,No,Normal,173,Sí,1.6,Ascendente,0,Defecto Reversible,Sí
+58,H,Dolor No Anginal,125.0,300.0,No,Hipertrofia Ventricular,171,No,0.0,Ascendente,2,Defecto Reversible,Sí
+60,H,Dolor No Anginal,140.0,293.0,No,Hipertrofia Ventricular,170,No,1.2,Plana,2,Defecto Reversible,Sí
+68,H,Angina Atípica,118.0,277.0,No,Normal,151,No,1.0,Ascendente,1,Defecto Reversible,No
+46,H,Angina Típica,101.0,197.0,Sí,Normal,156,No,0.0,Ascendente,0,Defecto Reversible,No
+77,H,Dolor No Anginal,125.0,304.0,No,Hipertrofia Ventricular,162,Sí,0.0,Ascendente,3,Normal,Sí
+54,M,Angina Atípica,110.0,214.0,No,Normal,158,No,1.6,Plana,0,Normal,No
+58,M,Dolor No Anginal,100.0,248.0,No,Hipertrofia Ventricular,122,No,1.0,Plana,0,Normal,No
+48,H,Angina Atípica,124.0,255.0,Sí,Normal,175,No,0.0,Ascendente,2,Normal,No
+57,H,Dolor No Anginal,132.0,207.0,No,Normal,168,Sí,0.0,Ascendente,0,Defecto Reversible,No
+52,H,Angina Atípica,138.0,223.0,No,Normal,169,No,0.0,Ascendente,0,Normal,No
+54,M,Angina Típica,132.0,288.0,Sí,Hipertrofia Ventricular,159,Sí,0.0,Ascendente,1,Normal,No
+35,H,Dolor No Anginal,126.0,282.0,No,Hipertrofia Ventricular,156,Sí,0.0,Ascendente,0,Defecto Reversible,Sí
+45,M,Angina Típica,112.0,160.0,No,Normal,138,No,0.0,Plana,0,Normal,No
+70,H,Angina Atípica,160.0,269.0,No,Normal,112,Sí,2.9,Plana,1,Defecto Reversible,Sí
+53,H,Dolor No Anginal,142.0,226.0,No,Hipertrofia Ventricular,111,Sí,0.0,Ascendente,0,Defecto Reversible,No
+59,M,Dolor No Anginal,170.0,249.0,No,Normal,143,Sí,0.0,Plana,0,Normal,Sí
+62,M,Dolor No Anginal,140.0,371.0,No,Hipertrofia Ventricular,157,No,1.2,Plana,0,Normal,No
+64,H,Dolor No Anginal,145.0,212.0,No,Hipertrofia Ventricular,132,No,2.0,Plana,2,Defecto Fijo,Sí
+57,H,Dolor No Anginal,152.0,274.0,No,Normal,88,Sí,1.2,Plana,1,Defecto Reversible,Sí
+52,H,Dolor No Anginal,108.0,233.0,Sí,Normal,147,No,0.1,Ascendente,3,Defecto Reversible,No
+56,H,Dolor No Anginal,132.0,184.0,No,Hipertrofia Ventricular,105,Sí,2.1,Plana,1,Defecto Fijo,Sí
+43,H,Angina Atípica,130.0,315.0,No,Normal,162,No,1.9,Ascendente,1,Normal,No
+53,H,Angina Atípica,130.0,246.0,Sí,Hipertrofia Ventricular,173,No,0.0,Ascendente,3,Normal,No
+48,H,Dolor No Anginal,124.0,274.0,No,Hipertrofia Ventricular,166,No,0.5,Plana,0,Defecto Reversible,Sí
+56,M,Dolor No Anginal,134.0,371.0,No,Hipertrofia Ventricular,150,Sí,1.9,Plana,2,Defecto Reversible,Sí
+42,H,Asintomático,148.0,244.0,No,Hipertrofia Ventricular,178,No,0.8,Ascendente,2,Normal,No
+59,H,Asintomático,170.0,270.0,No,Hipertrofia Ventricular,145,No,4.0,Descendente,0,Defecto Reversible,No
+60,M,Dolor No Anginal,158.0,305.0,No,Hipertrofia Ventricular,161,No,0.0,Ascendente,0,Normal,Sí
+63,M,Angina Típica,140.0,195.0,No,Normal,179,No,0.0,Ascendente,2,Normal,No
+42,H,Angina Atípica,120.0,240.0,Sí,Normal,194,No,0.8,Descendente,0,Defecto Reversible,No
+66,H,Angina Típica,160.0,246.0,No,Normal,120,Sí,0.0,Plana,3,Defecto Fijo,Sí
+54,H,Angina Típica,170.0,283.0,No,Hipertrofia Ventricular,195,No,0.0,Ascendente,1,Defecto Reversible,Sí
+69,H,Angina Atípica,140.0,254.0,No,Hipertrofia Ventricular,146,No,2.0,Plana,3,Defecto Reversible,Sí
+50,H,Angina Atípica,129.0,196.0,No,Normal,163,No,0.0,Ascendente,0,Normal,No
+51,H,Dolor No Anginal,140.0,298.0,No,Normal,122,Sí,4.0,Plana,3,Defecto Reversible,Sí
+43,H,Dolor No Anginal,132.0,247.0,Sí,Hipertrofia Ventricular,143,Sí,0.1,Plana,0,Defecto Reversible,Sí
+62,M,Dolor No Anginal,138.0,294.0,Sí,Normal,106,No,1.9,Plana,3,Normal,Sí
+68,M,Angina Atípica,120.0,211.0,No,Hipertrofia Ventricular,115,No,1.5,Plana,0,Normal,No
+67,H,Dolor No Anginal,100.0,299.0,No,Hipertrofia Ventricular,125,Sí,0.9,Plana,2,Normal,Sí
+69,H,Asintomático,160.0,234.0,Sí,Hipertrofia Ventricular,131,No,0.1,Plana,1,Normal,No
+45,M,Dolor No Anginal,138.0,236.0,No,Hipertrofia Ventricular,152,Sí,0.2,Plana,0,Normal,No
+50,M,Angina Típica,120.0,244.0,No,Normal,162,No,1.1,Ascendente,0,Normal,No
+59,H,Asintomático,160.0,273.0,No,Hipertrofia Ventricular,125,No,0.0,Ascendente,0,Normal,Sí
+50,M,Dolor No Anginal,110.0,254.0,No,Hipertrofia Ventricular,159,No,0.0,Ascendente,0,Normal,No
+64,M,Dolor No Anginal,170.0,325.0,No,Normal,154,Sí,0.0,Ascendente,0,Normal,No
+57,H,Angina Atípica,150.0,126.0,Sí,Normal,173,No,0.2,Ascendente,1,Defecto Reversible,No
+64,M,Angina Atípica,140.0,313.0,No,Normal,133,No,0.2,Ascendente,0,Defecto Reversible,No
+43,H,Dolor No Anginal,110.0,211.0,No,Normal,161,No,0.0,Ascendente,0,Defecto Reversible,No
+45,H,Dolor No Anginal,142.0,309.0,No,Hipertrofia Ventricular,147,Sí,0.0,Plana,3,Defecto Reversible,Sí
+58,H,Dolor No Anginal,128.0,259.0,No,Hipertrofia Ventricular,130,Sí,3.0,Plana,2,Defecto Reversible,Sí
+50,H,Dolor No Anginal,144.0,200.0,No,Hipertrofia Ventricular,126,Sí,0.9,Plana,0,Defecto Reversible,Sí
+55,H,Angina Típica,130.0,262.0,No,Normal,155,No,0.0,Ascendente,0,Normal,No
+62,M,Dolor No Anginal,150.0,244.0,No,Normal,154,Sí,1.4,Plana,0,Normal,Sí
+37,M,Angina Atípica,120.0,215.0,No,Normal,170,No,0.0,Ascendente,0,Normal,No
+38,H,Asintomático,120.0,231.0,No,Normal,182,Sí,3.8,Plana,0,Defecto Reversible,Sí
+41,H,Angina Atípica,130.0,214.0,No,Hipertrofia Ventricular,168,No,2.0,Plana,0,Normal,No
+66,M,Dolor No Anginal,170.0,228.0,Sí,Normal,165,Sí,1.0,Plana,2,Defecto Reversible,Sí
+52,H,Dolor No Anginal,112.0,230.0,No,Normal,160,No,0.0,Ascendente,1,Normal,Sí
+56,H,Asintomático,120.0,193.0,No,Hipertrofia Ventricular,162,No,1.9,Plana,0,Defecto Reversible,No
+46,M,Angina Típica,105.0,204.0,No,Normal,172,No,0.0,Ascendente,0,Normal,No
+46,M,Dolor No Anginal,138.0,243.0,No,Hipertrofia Ventricular,152,Sí,0.0,Plana,0,Normal,No
+64,M,Dolor No Anginal,130.0,303.0,No,Normal,122,No,2.0,Plana,2,Normal,No
+59,H,Dolor No Anginal,138.0,271.0,No,Hipertrofia Ventricular,182,No,0.0,Ascendente,0,Normal,No
+41,M,Angina Atípica,112.0,268.0,No,Hipertrofia Ventricular,172,Sí,0.0,Ascendente,0,Normal,No
+54,M,Angina Atípica,108.0,267.0,No,Hipertrofia Ventricular,167,No,0.0,Ascendente,0,Normal,No
+39,M,Angina Atípica,94.0,199.0,No,Normal,179,No,0.0,Ascendente,0,Normal,No
+53,H,Dolor No Anginal,123.0,282.0,No,Normal,95,Sí,2.0,Plana,2,Defecto Reversible,Sí
+63,M,Dolor No Anginal,108.0,269.0,No,Normal,169,Sí,1.8,Plana,2,Normal,Sí
+34,M,Angina Típica,118.0,210.0,No,Normal,192,No,0.7,Ascendente,0,Normal,No
+47,H,Dolor No Anginal,112.0,204.0,No,Normal,143,No,0.1,Ascendente,0,Normal,No
+67,M,Angina Atípica,152.0,277.0,No,Normal,172,No,0.0,Ascendente,1,Normal,No
+54,H,Dolor No Anginal,110.0,206.0,No,Hipertrofia Ventricular,108,Sí,0.0,Plana,1,Normal,Sí
+66,H,Dolor No Anginal,112.0,212.0,No,Hipertrofia Ventricular,132,Sí,0.1,Ascendente,1,Normal,Sí
+52,M,Angina Atípica,136.0,196.0,No,Hipertrofia Ventricular,169,No,0.1,Plana,0,Normal,No
+55,M,Dolor No Anginal,170.0,327.0,No,Anormalidad Onda ST-T,117,Sí,3.4,Plana,0,Normal,Sí
+49,H,Angina Atípica,118.0,149.0,No,Hipertrofia Ventricular,126,No,0.8,Ascendente,3,Normal,Sí
+74,M,Angina Típica,120.0,269.0,No,Hipertrofia Ventricular,121,Sí,0.2,Ascendente,1,Normal,No
+54,M,Angina Atípica,160.0,201.0,No,Normal,163,No,0.0,Ascendente,1,Normal,No
+54,H,Dolor No Anginal,122.0,286.0,No,Hipertrofia Ventricular,116,Sí,3.2,Plana,2,Normal,Sí
+56,H,Dolor No Anginal,130.0,283.0,Sí,Hipertrofia Ventricular,103,Sí,1.6,Descendente,0,Defecto Reversible,Sí
+46,H,Dolor No Anginal,120.0,249.0,No,Hipertrofia Ventricular,144,No,0.8,Ascendente,0,Defecto Reversible,Sí
+49,M,Angina Típica,134.0,271.0,No,Normal,162,No,0.0,Plana,0,Normal,No
+42,H,Angina Típica,120.0,295.0,No,Normal,162,No,0.0,Ascendente,0,Normal,No
+41,H,Angina Típica,110.0,235.0,No,Normal,153,No,0.0,Ascendente,0,Normal,No
+41,M,Angina Típica,126.0,306.0,No,Normal,163,No,0.0,Ascendente,0,Normal,No
+49,M,Dolor No Anginal,130.0,269.0,No,Normal,163,No,0.0,Ascendente,0,Normal,No
+61,H,Asintomático,134.0,234.0,No,Normal,145,No,2.6,Plana,2,Normal,Sí
+60,M,Angina Atípica,120.0,178.0,Sí,Normal,96,No,0.0,Ascendente,0,Normal,No
+67,H,Dolor No Anginal,120.0,237.0,No,Normal,71,No,1.0,Plana,0,Normal,Sí
+58,H,Dolor No Anginal,100.0,234.0,No,Normal,156,No,0.1,Ascendente,1,Defecto Reversible,Sí
+47,H,Dolor No Anginal,110.0,275.0,No,Hipertrofia Ventricular,118,Sí,1.0,Plana,1,Normal,Sí
+52,H,Dolor No Anginal,125.0,212.0,No,Normal,168,No,1.0,Ascendente,2,Defecto Reversible,Sí
+62,H,Angina Típica,128.0,208.0,Sí,Hipertrofia Ventricular,140,No,0.0,Ascendente,0,Normal,No
+57,H,Dolor No Anginal,110.0,201.0,No,Normal,126,Sí,1.5,Plana,0,Defecto Fijo,No
+58,H,Dolor No Anginal,146.0,218.0,No,Normal,105,No,2.0,Plana,1,Defecto Reversible,Sí
+64,H,Dolor No Anginal,128.0,263.0,No,Normal,105,Sí,0.2,Plana,1,Defecto Reversible,No
+51,M,Angina Atípica,120.0,295.0,No,Hipertrofia Ventricular,157,No,0.6,Ascendente,0,Normal,No
+43,H,Dolor No Anginal,115.0,303.0,No,Normal,181,No,1.2,Plana,0,Normal,No
+42,M,Angina Atípica,120.0,209.0,No,Normal,173,No,0.0,Plana,0,Normal,No
+67,M,Dolor No Anginal,106.0,223.0,No,Normal,142,No,0.3,Ascendente,2,Normal,No
+76,M,Angina Atípica,140.0,197.0,No,Anormalidad Onda ST-T,116,No,1.1,Plana,0,Normal,No
+70,H,Angina Típica,156.0,245.0,No,Hipertrofia Ventricular,143,No,0.0,Ascendente,0,Normal,No
+57,H,Angina Típica,124.0,261.0,No,Normal,141,No,0.3,Ascendente,0,Defecto Reversible,Sí
+44,M,Angina Atípica,118.0,242.0,No,Normal,149,No,0.3,Plana,1,Normal,No
+58,M,Angina Típica,136.0,319.0,Sí,Hipertrofia Ventricular,152,No,0.0,Ascendente,2,Normal,Sí
+60,M,Asintomático,150.0,240.0,No,Normal,171,No,0.9,Ascendente,0,Normal,No
+44,H,Angina Atípica,120.0,226.0,No,Normal,169,No,0.0,Ascendente,0,Normal,No
+61,H,Dolor No Anginal,138.0,166.0,No,Hipertrofia Ventricular,125,Sí,3.6,Plana,1,Normal,Sí
+42,H,Dolor No Anginal,136.0,315.0,No,Normal,125,Sí,1.8,Plana,0,Defecto Fijo,Sí
+52,H,Dolor No Anginal,128.0,204.0,Sí,Normal,156,Sí,1.0,Plana,0,Normal,Sí
+59,H,Angina Atípica,126.0,218.0,Sí,Normal,134,No,2.2,Plana,1,Defecto Fijo,Sí
+40,H,Dolor No Anginal,152.0,223.0,No,Normal,181,No,0.0,Ascendente,0,Defecto Reversible,Sí
+42,H,Angina Atípica,130.0,180.0,No,Normal,150,No,0.0,Ascendente,0,Normal,No
+61,H,Dolor No Anginal,140.0,207.0,No,Hipertrofia Ventricular,138,Sí,1.9,Ascendente,1,Defecto Reversible,Sí
+66,H,Dolor No Anginal,160.0,228.0,No,Hipertrofia Ventricular,138,No,2.3,Ascendente,0,Defecto Fijo,No
+46,H,Dolor No Anginal,140.0,311.0,No,Normal,120,Sí,1.8,Plana,2,Defecto Reversible,Sí
+71,M,Dolor No Anginal,112.0,149.0,No,Normal,125,No,1.6,Plana,0,Normal,No
+59,H,Asintomático,134.0,204.0,No,Normal,162,No,0.8,Ascendente,2,Normal,Sí
+64,H,Asintomático,170.0,227.0,No,Hipertrofia Ventricular,155,No,0.6,Plana,0,Defecto Reversible,No
+66,M,Angina Atípica,146.0,278.0,No,Hipertrofia Ventricular,152,No,0.0,Plana,1,Normal,No
+39,M,Angina Atípica,138.0,220.0,No,Normal,152,No,0.0,Plana,0,Normal,No
+57,H,Angina Típica,154.0,232.0,No,Hipertrofia Ventricular,164,No,0.0,Ascendente,1,Normal,Sí
+58,M,Dolor No Anginal,130.0,197.0,No,Normal,131,No,0.6,Plana,0,Normal,No
+57,H,Dolor No Anginal,110.0,335.0,No,Normal,143,Sí,3.0,Plana,1,Defecto Reversible,Sí
+47,H,Angina Atípica,130.0,253.0,No,Normal,179,No,0.0,Ascendente,0,Normal,No
+55,M,Dolor No Anginal,128.0,205.0,No,Anormalidad Onda ST-T,130,Sí,2.0,Plana,1,Defecto Reversible,Sí
+35,H,Angina Típica,122.0,192.0,No,Normal,174,No,0.0,Ascendente,0,Normal,No
+61,H,Dolor No Anginal,148.0,203.0,No,Normal,161,No,0.0,Ascendente,1,Defecto Reversible,Sí
+58,H,Dolor No Anginal,114.0,318.0,No,Anormalidad Onda ST-T,140,No,4.0,Descendente,3,Defecto Fijo,Sí
+58,M,Dolor No Anginal,170.0,225.0,Sí,Hipertrofia Ventricular,146,Sí,2.8,Plana,2,Defecto Fijo,Sí
+58,H,Angina Típica,125.0,220.0,No,Normal,144,No,0.4,Plana,0,Defecto Reversible,No
+56,H,Angina Típica,130.0,221.0,No,Hipertrofia Ventricular,163,No,0.0,Ascendente,0,Defecto Reversible,No
+56,H,Angina Típica,120.0,240.0,No,Normal,169,No,0.0,Descendente,0,Normal,No
+67,H,Angina Atípica,152.0,212.0,No,Hipertrofia Ventricular,150,No,0.8,Plana,0,Defecto Reversible,Sí
+55,M,Angina Típica,132.0,342.0,No,Normal,166,No,1.2,Ascendente,0,Normal,No
+44,H,Dolor No Anginal,120.0,169.0,No,Normal,144,Sí,2.8,Descendente,0,Defecto Fijo,Sí
+63,H,Dolor No Anginal,140.0,187.0,No,Hipertrofia Ventricular,144,Sí,4.0,Ascendente,2,Defecto Reversible,Sí
+63,M,Dolor No Anginal,124.0,197.0,No,Normal,136,Sí,0.0,Plana,0,Normal,Sí
+41,H,Angina Típica,120.0,157.0,No,Normal,182,No,0.0,Ascendente,0,Normal,No
+59,H,Dolor No Anginal,164.0,176.0,Sí,Hipertrofia Ventricular,90,No,1.0,Plana,2,Defecto Fijo,Sí
+57,M,Dolor No Anginal,140.0,241.0,No,Normal,123,Sí,0.2,Plana,0,Defecto Reversible,Sí
+45,H,Asintomático,110.0,264.0,No,Normal,132,No,1.2,Plana,0,Defecto Reversible,Sí
+68,H,Dolor No Anginal,144.0,193.0,Sí,Normal,141,No,3.4,Plana,2,Defecto Reversible,Sí
+57,H,Dolor No Anginal,130.0,131.0,No,Normal,115,Sí,1.2,Plana,1,Defecto Reversible,Sí
+57,M,Angina Típica,130.0,236.0,No,Hipertrofia Ventricular,174,No,0.0,Plana,1,Normal,Sí
+38,H,Angina Atípica,138.0,175.0,No,Normal,173,No,0.0,Ascendente,0,Normal,No

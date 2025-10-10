@@ -1,0 +1,52 @@
+======================================================================
+REPORTE MÉDICO CARDIOVASCULAR
+======================================================================
+
+Fecha: 08/10/2025 22:57:26
+Paciente: Alex medela
+Cédula: 9-1005-1351
+
+DATOS DEL PACIENTE:
+----------------------------------------------------------------------
+Edad: 50 años | Sexo: Masculino
+Presión Arterial: 120 mmHg
+Colesterol: 150 mg/dl
+Glucemia >120: Sí
+FC Máxima: 160 lpm
+Angina por ejercicio: Sí
+Depresión ST: 1.0 mm
+Vasos con estenosis: 0
+
+EVALUACIÓN DE RIESGO:
+----------------------------------------------------------------------
+Probabilidad de Enfermedad: 55.0%
+Nivel de Riesgo: MODERADO
+Riesgo Framingham (10 años): 10%
+
+FACTORES DE RIESGO:
+----------------------------------------------------------------------
+• Hiperglucemia en ayunas (diabetes/prediabetes)
+• Angina inducida por ejercicio (altamente significativo)
+
+Puntuación total: 5 puntos
+
+RECOMENDACIONES:
+----------------------------------------------------------------------
+
+💊 Farmacoterapia sugerida:
+   - Antiagregante plaquetario (Aspirina 100mg/día)
+   - Betabloqueador
+
+🏃 Modificaciones del estilo de vida:
+   - Dieta cardioprotectora (tipo mediterránea)
+   - Ejercicio aeróbico 150 min/semana
+   - Cesación completa de tabaquismo
+   - Control de peso (IMC 18.5-24.9)
+
+📅 Plan de seguimiento:
+   - Control en 1-2 semanas
+
+======================================================================
+NOTA: Este reporte es una herramienta de apoyo diagnóstico.
+NO reemplaza el juicio clínico del médico tratante.
+======================================================================

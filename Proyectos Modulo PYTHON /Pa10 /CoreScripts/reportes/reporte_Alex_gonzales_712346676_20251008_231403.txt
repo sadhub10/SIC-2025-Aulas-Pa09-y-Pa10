@@ -1,0 +1,54 @@
+======================================================================
+REPORTE MÉDICO CARDIOVASCULAR
+======================================================================
+
+Fecha: 08/10/2025 23:14:18
+Paciente: Alex gonzales
+Cédula: 7-1234-6676
+
+DATOS DEL PACIENTE:
+----------------------------------------------------------------------
+Edad: 50 años | Sexo: Masculino
+Presión Arterial: 150 mmHg
+Colesterol: 120 mg/dl
+Glucemia >120: Sí
+FC Máxima: 160 lpm
+Angina por ejercicio: Sí
+Depresión ST: 1.0 mm
+Vasos con estenosis: 0
+
+EVALUACIÓN DE RIESGO:
+----------------------------------------------------------------------
+Probabilidad de Enfermedad: 50.0%
+Nivel de Riesgo: MODERADO
+Riesgo Framingham (10 años): 20%
+
+FACTORES DE RIESGO:
+----------------------------------------------------------------------
+• Hipertensión arterial (150 mmHg)
+• Hiperglucemia en ayunas (diabetes/prediabetes)
+• Angina inducida por ejercicio (altamente significativo)
+
+Puntuación total: 7 puntos
+
+RECOMENDACIONES:
+----------------------------------------------------------------------
+
+💊 Farmacoterapia sugerida:
+   - Antiagregante plaquetario (Aspirina 100mg/día)
+   - Betabloqueador
+   - IECA o ARA-II para control de presión
+
+🏃 Modificaciones del estilo de vida:
+   - Dieta cardioprotectora (tipo mediterránea)
+   - Ejercicio aeróbico 150 min/semana
+   - Cesación completa de tabaquismo
+   - Control de peso (IMC 18.5-24.9)
+
+📅 Plan de seguimiento:
+   - Control en 1-2 semanas
+
+======================================================================
+NOTA: Este reporte es una herramienta de apoyo diagnóstico.
+NO reemplaza el juicio clínico del médico tratante.
+======================================================================
