@@ -1,0 +1,346 @@
+id_ruta,nombre_ruta,inicio_laboral,fin_laboral,inicio_sabado,fin_sabado,inicio_domingo,fin_domingo
+1,Alcalde Díaz-Transístmica-Directo-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+2,Albrook-Directo-Transístmica-Alcalde Díaz,0.0,24.0,0.0,24.0,0.0,24.0
+3,Alcalde Díaz-Transístmica-Cervecería Nacional,4.0,7.0,,,,
+4,Cervecería Nacional-Transístmica-Alcade Díaz,16.0,19.0,,,,
+5,Alcalde Díaz-Estación Los Andes,5.0,22.0,,,,
+6,Estación Los Andes-Alcalde Díaz,5.0,22.0,,,,
+7,Alcalde Díaz-Ciudad Bolivar-Estación Los Andes,,,5.0,22.0,5.0,22.0
+8,Estación Los Andes-Alcalde Díaz-Ciudad Bolivar,,,5.0,22.0,5.0,22.0
+9,Chilibre-I-Forestal-Albrook,4.0,7.0,4.0,7.0,6.0,8.0
+10,Albrook-Forestal-Chilibre,4.0,7.0,11.0,16.0,11.0,16.0
+11,Chilibre-Transístmica-Directo-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+12,Albrook-Directo-Transístmica-Chilibre,0.0,24.0,0.0,24.0,0.0,24.0
+13,Chilibre Pueblo-Transístmica-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+14,Albrook-Transístmica-Chilibre,0.0,24.0,0.0,24.0,0.0,24.0
+15,Chagres-Transístmica-Cervecería Nacional,16.0,19.0,,,,
+16,Chilibre-Autopista-Albrook,4.0,24.0,4.0,24.0,4.0,24.0
+17,Albrook-Autopista-Chilibre,4.0,24.0,4.0,24.0,4.0,24.0
+18,Chilibre Pueblo-Corredor Norte-Autopista-Albrook,4.0,24.0,4.0,24.0,4.0,24.0
+19,Albrook-Autopista-Corredor Norte-Chilibre,4.0,24.0,4.0,24.0,4.0,24.0
+20,Estación Marañon-Autopista-Corredor Norte-Chilibre,4.0,24.0,,,,
+21,Chilibre Pueblo-Estación Los Andes,5.0,22.0,5.0,22.0,5.0,22.0
+22,Estación Los Andes-Chilibre Pueblo,5.0,22.0,5.0,22.0,5.0,22.0
+23,Ciudad Bolivar-Estación Los Andes,5.0,22.0,,,,
+24,Estación Los Andes-Ciudad Bolivar,5.0,22.0,,,,
+25,Ciudad Bolivar-Tumba Muerto-Directo-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+26,Albrook-Directo-Tumba Muerto-Ciudad Bolivar,0.0,24.0,0.0,24.0,0.0,24.0
+27,Ciudad Bolivar-Tumba Muerto-Cervecería Nacional,4.0,7.0,,,,
+28,Cervecería Nacional-Tumba Muerto-Ciudad Bolivar,16.0,19.0,,,,
+29,Ciudad Bolivar-Corredor Norte-Albrook,4.0,24.0,4.0,24.0,4.0,24.0
+30,Albrook-Corredor Norte-Ciudad Bolivar,4.0,24.0,4.0,24.0,4.0,24.0
+31,Estación La Cabima-Alcalde Díaz-Ciudad Bolivar-Circular,5.0,22.0,5.0,20.0,5.0,20.0
+32,El Valle-Estación Los Andes,5.0,22.0,5.0,22.0,5.0,22.0
+33,Estación Los Andes-El Valle,5.0,22.0,5.0,22.0,5.0,22.0
+34,El Valle-Transístmica-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+35,Albrook-Transístmica-El Valle,0.0,24.0,0.0,24.0,0.0,24.0
+36,El Valle-Transístmica-Loma La Pava,4.0,7.0,,,,
+37,Loma La Pava-Transístmica-El Valle,16.0,19.0,,,,
+38,El Valle-Corredor Norte-Albrook,4.0,24.0,4.0,24.0,4.0,24.0
+39,Albrook-Corredor Norte-El Valle,4.0,24.0,4.0,24.0,4.0,24.0
+40,Estación La Cabima-Chilibre interno-Circular,5.0,22.0,5.0,22.0,5.0,22.0
+41,Estación La Cabima-Transistmica-Directo-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+42,Estación La Cabima- Tumba Muerto- Directo-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+43,Estación La Cabima-Corredor Norte-Albrook,4.0,24.0,4.0,24.0,4.0,24.0
+44,Estación La Cabima-Autopista-Albrook,4.0,24.0,4.0,24.0,4.0,24.0
+45,Albrook-Autopista-Estación La Cabima,4.0,24.0,4.0,24.0,4.0,24.0
+46,Estación Marañon-Autopista-Estación La Cabima,4.0,24.0,,,,
+47,Estación La Cabima-Estación Los Andes,5.0,22.0,5.0,22.0,5.0,22.0
+48,Estación Los Andes-Estación La Cabima,5.0,22.0,5.0,22.0,5.0,22.0
+49,Estación Los Andes-Transístmica-Albrook,5.0,22.0,5.0,22.0,5.0,22.0
+50,Albrook-Transístmica-Estación Los Andes,5.0,22.0,5.0,22.0,5.0,22.0
+51,Estación Los Andes-Estación Parador,5.0,22.0,5.0,22.0,5.0,22.0
+52,Estación Los Andes-Estación Parador,5.0,22.0,5.0,22.0,5.0,22.0
+53,Estación Los Andes-Tumba Muerto-Directo-Albrook,0.0,24.0,5.0,22.0,5.0,22.0
+54,Albrook-Directo-Tumba Muerto-Estación Los Andes,0.0,24.0,5.0,22.0,5.0,22.0
+55,Estación Los Andes-Vía España-Directo-Albrook,0.0,24.0,5.0,22.0,5.0,22.0
+56,Albrook-Directo-Vía España-Estación Los Andes,0.0,24.0,5.0,22.0,5.0,22.0
+57,Estación Los Andes-Vía España-Albrook,0.0,24.0,5.0,22.0,5.0,22.0
+58,Albrook-Vía España-Estación Los Andes,0.0,24.0,5.0,22.0,5.0,22.0
+59,Estación San Isidro-El Valle,5.0,22.0,5.0,22.0,5.0,22.0
+60,Santa Librada-Estación San Isidro,5.0,22.0,5.0,22.0,5.0,22.0
+61,Santa Librada-Estación San Isidro,5.0,22.0,5.0,22.0,5.0,22.0
+62,Estación Torrijos Carter-Estación San Isidro,5.0,22.0,5.0,22.0,5.0,22.0
+63,Estación Torrijos Carter-Estación San Isidro,5.0,22.0,5.0,22.0,5.0,22.0
+64,Mano de Piedra-Estación San Isidro,5.0,22.0,5.0,22.0,5.0,22.0
+65,Mano de Piedra-Estación San Isidro,5.0,22.0,5.0,22.0,5.0,22.0
+66,Alcalde Díaz-Estación San Isidro,5.0,22.0,5.0,22.0,5.0,22.0
+67,Estación San Isidro-Alcalde Díaz,5.0,22.0,5.0,22.0,5.0,22.0
+68,Ciudad Bolivar-Estación San Isidro,5.0,22.0,5.0,22.0,5.0,22.0
+69,Estación San Isidro-Ciudad Bolivar,5.0,22.0,5.0,22.0,5.0,22.0
+70,Chilibre Pueblo-Estación San Isidro,5.0,22.0,5.0,22.0,5.0,22.0
+71,Estación San Isidro-Chilibre Pueblo,5.0,22.0,5.0,22.0,5.0,22.0
+72,Estación La Cabima-Estación San Isidro,5.0,22.0,5.0,22.0,5.0,22.0
+73,Estación San Isidro-Estación La Cabima,5.0,22.0,5.0,22.0,5.0,22.0
+74,Los Andes-Tumba Muerto-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+75,Albrook-Tumba Muerto- Los Andes,0.0,24.0,0.0,24.0,0.0,24.0
+76,Los Andes-Tumba Muerto-Cervecería Nacional,16.0,19.0,,,,
+77,Estación Marañon-Tumba Muerto- Los Andes,16.0,19.0,,,,
+78,Los Andes,4.0,24.0,4.0,24.0,4.0,24.0
+79,Mano de Piedra-Estación Los Andes,5.0,22.0,5.0,22.0,5.0,22.0
+80,Estación Los Andes-Mano de Piedra,5.0,22.0,5.0,22.0,5.0,22.0
+81,Mano de Piedra-Transístmica-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+82,Albrook-Transístmica-Mano de Piedra,0.0,24.0,0.0,24.0,0.0,24.0
+83,Mano de Piedra-Transístmica-Loma La Pava,4.0,7.0,,,,
+84,Loma La Pava-Transístmica-Mano de Piedra,16.0,19.0,,,,
+85,Mano de Piedra-TK-Estación Marañon,16.0,19.0,,,,
+86,Mano de Piedra-Tumba Muerto-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+87,Albrook-Tumba Muerto-Mano de Piedra,0.0,24.0,0.0,24.0,0.0,24.0
+88,Mano de Piedra-Tumba Muerto-Cervecería Nacional,4.0,7.0,,,,
+89,Cervecería Nacional-Tumba Muerto-Mano de Piedra,0.0,24.0,0.0,24.0,0.0,24.0
+90,Mano de Piedra-Corredor Norte-Albrook,4.0,24.0,4.0,24.0,4.0,24.0
+91,Albrook-Corredor Norte-Mano de Piedra,4.0,24.0,4.0,24.0,4.0,24.0
+92,Estación Marañon-Corredor Norte-Mano de Piedra,4.0,24.0,4.0,24.0,,
+93,Santa Librada-Estación Los Andes,5.0,22.0,5.0,22.0,5.0,22.0
+94,Estación Los Andes-santa Librada,5.0,22.0,5.0,22.0,5.0,22.0
+95,Santa Librada-Transístmica-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+96,Albrook-Transístmica-Santa Librada,0.0,24.0,0.0,24.0,0.0,24.0
+97,Estación Marañon-Transístmica-Santa Librada,16.0,19.0,,,,
+98,Santa Librada-Tumba Muerto-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+99,Albrook-Tumba Muerto-Santa Librada,0.0,24.0,0.0,24.0,0.0,24.0
+100,Santa Librada-Tumba Muerto-Cervecería Nacional,4.0,7.0,,,,
+101,Cervecería Nacional-Tumba Muerto-Santa Librada,16.0,19.0,,,,
+102,Santa Librada-Tumba Muerto-Estación Marañon,6.0,7.0,,,,
+103,Estación Marañon-Tumba Muerto-Santa Librada,6.0,7.0,5.0,7.0,,
+104,Santa Librada-Corredor Norte-Albrook,4.0,24.0,4.0,24.0,4.0,24.0
+105,Albrook-Corredor Norte-Santa Librada,4.0,24.0,4.0,24.0,4.0,24.0
+106,Santa Librada-Corredor Norte-Albrook,5.0,6.0,,,,
+107,Estación Marañon-Corredor Norte-Santa Librada,16.0,19.0,12.0,13.0,,
+108,Policlinica-Transimica-Estación Marañon,5.0,7.0,,,,
+109,Policlinica-Transimica-Estación Marañon,5.0,7.0,5.0,6.0,,
+110,Policlinica-Tumba Muerto-Estación Marañon,5.0,7.0,,,,
+111,S. Librada 1 Etapa-I-Transístmica-Estación Marañon,5.0,7.0,,,,
+112,Santa Librada-Tumba Muerto-Estación Marañon,5.0,7.0,,,,
+113,San Vicente-Transístmica-Directo-AlbrooK,0.0,24.0,0.0,24.0,0.0,24.0
+114,Estación Torrijos Carter-Estación Los Andes,5.0,22.0,5.0,22.0,5.0,22.0
+115,Estación Los Andes-Estación Torrijos Carter,5.0,22.0,5.0,22.0,5.0,22.0
+116,El Poderoso-Gran Estación,4.0,22.0,5.0,20.0,,
+117,Torrijos Carter-Transístmica-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+118,Albrook-Transístmica-Torrijos Carter,0.0,24.0,0.0,24.0,0.0,24.0
+119,Torrijos Carter-Transístmica-Loma La Pava,4.0,7.0,,,,
+120,Loma La Pava-Transístmica-Torrijos Carter,16.0,19.0,,,,
+121,Torrijos Carter-Transístmica-Estación Marañon,5.0,7.0,,,,
+122,Torrijos Carter-Tumba Muerto-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+123,Albrook-Tumba Muerto-Torrijos Carter,0.0,24.0,0.0,24.0,0.0,24.0
+124,Torrijos Carter-Tumba Muerto-Cervecería Nacional,4.0,7.0,,,,
+125,Cervecería Nacional-Tumba Muerto-Torrijos Carte,16.0,17.0,,,,
+126,Torrijos Carter-Tumba Muerto-Antiguo Deposito-R,16.0,17.0,,,,
+127,Torrijos Carter-Tumba Muerto-Estación Marañon,6.0,7.0,,,,
+128,Estación Marañon-Tumba Muerto-Torrijos Carter,6.0,7.0,,,,
+129,Torrijos Carter-Corredor Norte-Albrook,4.0,24.0,4.0,24.0,4.0,24.0
+130,Albrook-Corredor Norte-Torrijos Carter,4.0,24.0,4.0,24.0,4.0,24.0
+131,Estación Marañon-Corredor Norte-Torrijos Carter,4.0,24.0,4.0,24.0,,
+132,Veranillo-Vía Israel-Ave Balboa-Mercado de Mariscos,5.0,7.0,,,,
+133,Mercado de Mariscos-Ave Balboa-Vía Israel-Veranillo,15.0,19.0,,,,
+134,Veranillo-Transístmica-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+135,Albrook-Transístmica-Veranillo,0.0,24.0,0.0,24.0,0.0,24.0
+136,Veranillo-Transístmica-Estación Marañon,6.0,7.0,,,,
+137,Estación Marañon-Transístmica-Veranillo,6.0,7.0,0.0,24.0,,
+138,Veranillo-Tumba Muerto-Directo-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+139,Albrook-Directo-Tumba Muerto-Veranillo,0.0,24.0,0.0,24.0,0.0,24.0
+140,Veranillo-Tumba Muerto-Cervecería Nacional,4.0,7.0,,,,
+141,Cervecería Nacional-Tumba Muerto-Veranillo,16.0,19.0,,,,
+142,Veranillo-Puente El Balboa,15.0,20.0,,,,
+143,Veranillo-Vía España-Directo-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+144,Albrook-Directo-Vía España-Veranillo,0.0,24.0,0.0,24.0,0.0,24.0
+145,Veranillo-Vía España-Estación Iglesia del Carmen,4.0,8.0,,,,
+146,HSBC Calle 50-Vía España-Veranillo,16.0,19.0,,,,
+147,La Pesa-Transístmica-Albrook,6.0,7.0,6.0,7.0,,
+148,La Pesa-Tumba Muerto-Directo-Albrook,6.0,7.0,6.0,7.0,,
+149,La Pesa-Vía España-Directo-Albrook,6.0,7.0,6.0,7.0,,
+150,24 de Diciembre-Costa del Este-Coredor Sur-Estación Marañon,4.0,7.0,4.0,7.0,,
+151,Estación Marañon-Corredor Sur-Costa del Este-24 de Diciembre,5.0,7.0,5.0,7.0,,
+152,24 de Diciembre-Costa del Este-Coredor Sur-Parque Urraca,7.0,18.0,8.0,18.0,6.0,18.0
+153,Parque Urraca-Corredor Sur-Costa del Este-24 de Diciembre,7.0,19.0,7.0,19.0,6.0,18.0
+154,24 de Diciembre-Transístmica-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+155,Albrook-Transístmica-24 de Diciembre,0.0,24.0,0.0,24.0,0.0,24.0
+156,24 de Diciembre-Vía España-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+157,Albrook-Vía España-24 de Diciembre,0.0,24.0,0.0,24.0,0.0,24.0
+158,24 de Diciembre-La Doña,5.0,22.0,5.0,22.0,5.0,22.0
+159,24 de Diciembre-Estación Los Pueblos,5.0,22.0,5.0,22.0,5.0,22.0
+160,24 de Diciembre-Corredor Sur-Albrook,4.0,24.0,4.0,24.0,,
+161,Albrook-Corredor Sur-24 de Diciembre,4.0,24.0,4.0,24.0,,
+162,Costa del Este-Corredor Sur-La Doña,15.0,18.0,11.0,13.0,,
+163,24 de Diciembre-Corredor Sur-Estación Marañon,4.0,7.0,,,,
+164,24 de Diciembre-Corredor Sur-Estación Marañon,4.0,7.0,,,,
+165,,,,,,,
+166,Concepción-Vía España-Directo-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+167,Albrook-Directo-Vía España-Concepción,0.0,24.0,0.0,24.0,0.0,24.0
+168,Don Bosco-Estación Los Pueblos,5.0,22.0,5.0,22.0,5.0,22.0
+169,Don Bosco-Transístmica-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+170,Albrook-Transístmica-Don Bosco,0.0,24.0,0.0,24.0,0.0,24.0
+171,Bosco Caobos-Transístmica-Loma La Pava,4.0,7.0,,,,
+172,Loma La Pava-Transístmica-Bosco Caobos,16.0,19.0,,,,
+173,Estación Marañon-Transístmica-Bosco Caobos,16.0,19.0,,,,
+174,Bosco Caobos-Vía España-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+175,Albrook-Vía España-Bosco Caobos,0.0,24.0,0.0,24.0,0.0,24.0
+176,Bosco Caobos-VE-Estación Iglesia del Carmen,0.0,24.0,0.0,24.0,0.0,24.0
+177,HSBC Calle 50-Vía España-Bosco Caobos,0.0,24.0,0.0,24.0,0.0,24.0
+178,Estación Marañon-Vía España-Bosco Caobos,16.0,19.0,,,,
+179,Caobos-Vía España-Albrook,4.0,7.0,,,,
+180,Caobos-Corredor Sur-Estación Marañon,4.0,24.0,4.0,24.0,4.0,24.0
+181,Estación Marañon-Corredor Sur-Caobos,4.0,24.0,4.0,24.0,4.0,24.0
+182,Don Bosco-Estación Parador,5.0,22.0,5.0,22.0,5.0,22.0
+183,Don Bosco-Corredor Sur-Estación Marañon,4.0,24.0,4.0,24.0,4.0,24.0
+184,Estación Marañon-Corredor Sur-Don Bosco,4.0,24.0,4.0,24.0,4.0,24.0
+185,Estación Parador-Transístmica-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+186,Albrook-Transístmica-Estación Parador,0.0,24.0,0.0,24.0,0.0,24.0
+187,Estación Parador,5.0,22.0,5.0,22.0,5.0,22.0
+188,Estación Parador,5.0,22.0,5.0,22.0,5.0,22.0
+189,Estación Parador-Corredor Sur-Estación Marañon-I (LLano Bonito),4.0,24.0,4.0,24.0,4.0,24.0
+190,Estación Marañon-Corredor Sur-Estación Parador-R (LLano Bonito),4.0,24.0,4.0,24.0,4.0,24.0
+191,Estación Parador,5.0,22.0,5.0,22.0,5.0,22.0
+192,Estación Parador,5.0,22.0,5.0,22.0,5.0,22.0
+193,Felipillo-La Doña,7.0,20.0,7.0,23.0,4.0,21.0
+194,Felipillo-Corredor Sur-Albrook,4.0,7.0,4.0,24.0,,
+195,Albrook-Felipillo-Corredor Sur,15.0,17.0,,,,
+196,Felipillo-Corredor Sur-Estación Marañon,4.0,6.0,,,,
+197,Estación Marañon-Felipillo-Corredor Sur,15.0,24.0,4.0,24.0,,
+198,Felipillo-Vía España-Albrook,4.0,7.0,,,,
+199,Albrook-Vía España-Felipillo,4.0,7.0,,,,
+200,Estación Marañon-Vía España-Felipillo,4.0,7.0,,,,
+201,La Doña-Vía España-Estación Balboa,5.0,8.0,,,,
+202,Estación Balboa-Vía España-La Doña,5.0,8.0,,,,
+203,La Doña-Transístmica-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+204,Albrook-Transístmica-La Doña,0.0,24.0,0.0,24.0,0.0,24.0
+205,La Doña-Transístmica-Cervercia Nacional,4.0,7.0,,,,
+206,Cervecería Nacional-Transístmica-La Doña,16.0,19.0,,,,
+207,Estación Marañon-Transístmica-La Doña,16.0,19.0,,,,
+208,La Doña-Tumba Muerto-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+209,Albrook-Tumba Muerto-La Doña,0.0,24.0,0.0,24.0,0.0,24.0
+210,La Doña-Tumba Muerto-Cervecería Nacional,4.0,7.0,,,,
+211,Cervecería Nacional-Tumba Muerto-La Doña,16.0,19.0,,,,
+212,Antiguo Deposito-Tumba Muerto-La Doña,16.0,17.0,,,,
+213,Estación Marañon-Tumba Muerto-La Doña,16.0,19.0,0.0,24.0,,
+214,La Doña-Vía España-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+215,Albrook-Vía España-La Doña,0.0,24.0,0.0,24.0,0.0,24.0
+216,La Doña-Vía España-Estación Iglesia del Carmen,4.0,7.0,,,,
+217,HSBC Calle 50-Vía España-La Doña,16.0,19.0,,,,
+218,Estación Marañon-Vía España-La Doña,16.0,19.0,,,,
+219,La Doña-Estación Parador,5.0,22.0,5.0,22.0,5.0,22.0
+220,La Doña-Tumba Muerto-Gran Estación,4.0,18.0,,,,
+221,La Doña-Estación Juan Díaz,16.0,18.0,,,,
+222,Mañanitas-Vía España-Estación Balboa,5.0,8.0,,,,
+223,Estación Balboa-Vía España-Mañanitas,5.0,8.0,,,,
+224,Mañanitas-Estación Parador,5.0,22.0,5.0,22.0,5.0,22.0
+225,Mañanitas-Tumba Muerto-Gran Estación,0.0,24.0,0.0,24.0,0.0,24.0
+226,Mañanitas-Corredor Sur-Albrook,4.0,24.0,,,,
+227,Albrook-Corredor Sur-Mañanitas,4.0,24.0,,,,
+228,Mañanitas-Estación Los Pueblos,11.0,2.0,11.0,24.0,11.0,24.0
+229,Mañanitas-Tumba Muerto-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+230,Albrook-Tumba Muerto-Mañanitas,0.0,24.0,0.0,24.0,0.0,24.0
+231,Mañanitas-Tumba Muerto-Cervecería Nacional,4.0,7.0,,,,
+232,Cervecería Nacional-Tumba Muerto-Mañanitas,16.0,19.0,,,,
+233,Caja de Seguro Social-Tumba Muerto-Mañanitas,16.0,19.0,,,,
+234,Antiguo Deposito-Tumba Muerto-Mañanitas,16.0,19.0,,,,
+235,Mañanitas-Tumba Muerto-Estación Marañon,0.0,24.0,0.0,24.0,0.0,24.0
+236,Estación Marañon-Tumba Muerto-Mañanitas,0.0,24.0,0.0,24.0,0.0,24.0
+237,MañanitaParque-Corredor Sur-Albrook,4.0,24.0,4.0,24.0,4.0,24.0
+238,Albrook-Corredor Sur-MañanitaParque,4.0,24.0,4.0,24.0,4.0,24.0
+239,Estación Marañon-Corredor Sur-MañanitaParque,4.0,24.0,4.0,24.0,,
+240,Mañanitas-Vía España-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+241,Albrook-Vía España-Mañanitas,0.0,24.0,0.0,24.0,0.0,24.0
+242,Mañanitas-Vía España-Estación Iglesia del Carmen,4.0,6.0,,,,
+243,HSBC Calle 50-Vía España-Mañanitas,15.0,17.0,,,,
+244,Estación Marañon-Vía España-Mañanitas,4.0,7.0,0.0,24.0,,
+245,La Pagoda-Tumba Muerto-Albrook,15.0,17.0,0.0,24.0,,
+246,La Pagoda-Vía España-Albrook,4.0,6.0,0.0,24.0,,
+247,Parque Real-Corredor Sur-Albrook,4.0,7.0,,,,
+248,Albrook-Corredor Sur-Parque Real,4.0,7.0,,,,
+249,Costa del Este-CS-Mañanitas,15.0,18.0,4.0,24.0,,
+250,Pacora-Corredor Sur-Albrook,4.0,24.0,4.0,24.0,4.0,24.0
+251,Albrook-Corredor Sur-Pacora,4.0,24.0,4.0,24.0,4.0,24.0
+252,Entrada Costa del Este-Av Balboa-Albrook,5.0,7.0,5.0,6.0,,
+253,Mercado de Mariscos-Cinta Costera-Rotonda Panama Viejo,5.0,8.0,6.0,8.0,,
+254,Panamá Viejo-Av Balboa-Albrook,4.0,24.0,4.0,24.0,4.0,23.0
+255,Panamá Viejo-Cinta Costera-Albrook,4.0,24.0,4.0,24.0,4.0,23.0
+256,Panamá Viejo-Av Balboa-Mercado del Marisco,4.0,24.0,4.0,24.0,4.0,23.0
+257,Panamá Viejo-Cinta Costera-Mercado del Marisco,4.0,24.0,4.0,24.0,4.0,23.0
+258,El Balboa-Vía Porras-Vía España-Directo-Albrook,4.0,24.0,4.0,24.0,4.0,23.0
+259,Albrook-Directo-Vía España-Vía Porras-El Balboa,4.0,24.0,4.0,24.0,4.0,23.0
+260,Pedregal-Estación Los Pueblos,16.0,17.0,11.0,16.0,,
+261,Pedregal-Transístmica-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+262,Albrook-Transístmica-Pedregal,0.0,24.0,0.0,24.0,0.0,24.0
+263,Pedregal-Transístmica-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+264,Albrook-Transístmica-Pedregal,0.0,24.0,0.0,24.0,0.0,24.0
+265,Pedregal-Transístmica-Cervecería Nacional,4.0,7.0,,,,
+266,Cervecería Nacional-Transístmica-Pedregal,16.0,19.0,,,,
+267,Pedregal-Transístmica-Estación Marañon,0.0,24.0,0.0,24.0,0.0,24.0
+268,Estación Marañon-Transístmica-Pedregal,0.0,24.0,0.0,24.0,0.0,24.0
+269,Pedregal-Tumba Muerto-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+270,Albrook-Tumba Muerto-Pedregal,0.0,24.0,0.0,24.0,0.0,24.0
+271,Pedregal-Tumba Muerto-Cervecería Nacional,4.0,7.0,,,,
+272,Cervecería Nacional-Tumba Muerto-Pedregal,16.0,19.0,,,,
+273,Estación Marañon-Tumba Muerto-Pedregal,0.0,24.0,0.0,24.0,0.0,24.0
+274,Pedregal-Corredor Sur-Estación Marañon,4.0,24.0,4.0,24.0,4.0,24.0
+275,Estación Marañon-Corredor Sur-Pedregal,4.0,24.0,4.0,24.0,4.0,24.0
+276,Pedregal-Vía España-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+277,Albrook-Vía España-Pedregal,0.0,24.0,0.0,24.0,0.0,24.0
+278,Pedregal-Vía España-Estación Iglesia del Carmen,4.0,7.0,,,,
+279,HSBC Calle 50-Vía España-Pedregal,16.0,19.0,,,,
+280,Pedregal-Vía España-Estación Marañon,4.0,7.0,,,,
+281,Estación Marañon-Vía España-Pedregal,16.0,19.0,,,,
+282,San Antonio-Corredor Norte-Estación Marañon,4.0,24.0,4.0,24.0,4.0,24.0
+283,Estación Marañon-Corredor Norte-San Antonio,4.0,24.0,4.0,24.0,4.0,24.0
+284,San Joaquin Interna,4.0,19.0,4.0,22.0,4.0,22.0
+285,San Joaquin-Transístmica-Albrook,4.0,20.0,4.0,7.0,,
+286,Albrook-Transístmica-San Joaquin,4.0,20.0,16.0,19.0,,
+287,San Joaquin-Vía España-Albrook,4.0,20.0,4.0,7.0,,
+288,Albrook-Vía España-San Joaquin,4.0,20.0,16.0,19.0,,
+289,San Pedro Interna,8.0,22.0,8.0,22.0,4.0,22.0
+290,San Pedro-Vía España-Directo-Albrook,4.0,7.0,4.0,7.0,,
+291,Albrook-Directo-Vía España-San Pedro,4.0,7.0,4.0,7.0,,
+292,Tocumen-Vía España-Estación Balboa,4.0,7.0,,,,
+293,Estación Balboa-Vía España-Tocumen,4.0,7.0,12.0,18.0,,
+294,Cabuya-Transístmica-Albrook,4.0,5.0,,,,
+295,Cabuya-Tumba Muerto-Albrook,4.0,5.0,,,,
+296,Cabuya-Corredor Sur-Albrook,4.0,5.0,,,,
+297,Cabuya-Vía España-Albrook,4.0,5.0,,,,
+298,Tocumen-Estación Parador,5.0,22.0,5.0,22.0,5.0,22.0
+299,Tocumen-Super 99 San Miguelito,16.0,18.0,12.0,19.0,,
+300,Tocumen-Estación Los Pueblos,16.0,18.0,,,,
+301,Tocumen-Estación Los Pueblos,11.0,24.0,11.0,24.0,11.0,24.0
+302,Tocumen-Transístmica-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+303,Albrook-Transístmica-Tocumen,0.0,24.0,0.0,24.0,0.0,24.0
+304,Tocumen-Transístmica-Cervecería Nacional,4.0,7.0,,,,
+305,Cervecería Nacional-Transístmica-Tocumen,16.0,19.0,,,,
+306,Caja de Seguro Social-Transístmica-Tocumen,16.0,19.0,,,,
+307,Estación Marañon-Transístmica-Tocumen,16.0,19.0,0.0,24.0,,
+308,Tocumen-Tumba Muerto-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+309,Albrook-Tumba Muerto-Tocumen,0.0,24.0,0.0,24.0,0.0,24.0
+310,Tocumen-Tumba Muerto-Cervecería Nacional,4.0,7.0,,,,
+311,Cervecería Nacional-Tumba Muerto-Tocumen,16.0,19.0,,,,
+312,Estación Marañon-Tumba Muerto-Tocumen,16.0,19.0,,,,
+313,Albrook-Corredor Sur-Tocumen,4.0,24.0,4.0,24.0,4.0,24.0
+314,Tocumen-Corredor Sur-Albrook,4.0,24.0,4.0,24.0,4.0,24.0
+315,Estación Marañon-Corredor Sur-Tocumen,4.0,24.0,,,,
+316,Tocumen-Corredor Sur-Estación Marañon,4.0,24.0,4.0,24.0,,
+317,Costa del Este-Corredor Sur-Tocumen,4.0,24.0,4.0,24.0,,
+318,Tocumen-Vía España-Albrook,0.0,24.0,0.0,24.0,0.0,24.0
+319,Albrook-Vía España-Tocumen,0.0,24.0,0.0,24.0,0.0,24.0
+320,Tocumen-Vía España-Estación Iglesia del Carmen,16.0,19.0,,,,
+321,HSBC Calle 50-Vía España-Tocumen,16.0,19.0,,,,
+322,Tocumen-Vía España-Cruce Vista Hermosa,14.0,16.0,,,,
+323,Tocumen-Vía España-Estación Marañon,16.0,19.0,,,,
+324,Estación Marañon-Vía España-Tocumen,16.0,19.0,,,,
+325,Costa del Este-Corredor Sur-Albrook,4.0,24.0,4.0,24.0,,
+326,JJ Vallarino-Corredor Sur-Estación Marañon,4.0,24.0,,,,
+327,JJ Vallarino-Vía España-Directo-Albrook,15.0,16.0,,,,
+328,Estación Marañon-Calle 12-Avenida B,4.0,21.0,4.0,21.0,4.0,21.0
+329,Albrook-Amador,6.0,18.0,7.0,19.0,8.0,19.0
+330,P Amelia Denis-Marañon-Chorrillo,4.0,22.0,4.0,22.0,7.0,22.0
+331,Albrook-Av Omar Torrijos-Ciudad del Saber,4.0,22.0,5.0,21.0,5.0,20.0
+332,El Dorado-Av La Paz-Betania,4.0,22.0,4.0,23.0,3.0,22.0
+333,Est. Iglesia del Carmen-Universidad de Panama-Caja del Seguro Social,5.0,22.0,5.0,22.0,,
+334,Estación Vía Argentina-Punta Pacífica,5.0,24.0,5.0,22.0,,
+335,Transistmica-12 de Octubre-Vía España,5.0,15.0,5.0,16.0,11.0,20.0
+336,Tumba Muerto-Av La Paz-Transistmica,5.0,22.0,5.0,16.0,11.0,20.0
+337,Marañon-I--Albrook,4.0,21.0,,,,
+338,Vía España-Ernesto T Lefevre-Av Balboa,5.0,15.0,5.0,16.0,11.0,20.0
+339,Albrook-Miraflores,5.0,17.0,6.0,17.0,6.0,17.0
+340,Paitilla-Vía Brasil-Av Federico Boyd,4.0,22.0,3.0,24.0,4.0,22.0
+341,Marañon-Av Roosvelt-T Balboa-Av Martires,4.0,10.0,5.0,9.0,,
+342,UDELAS-Albrook,6.0,17.0,,,,
+343,Villa Rica-12 de Octubre,4.0,18.0,4.0,24.0,4.0,22.0
+344,La Doña-Corredor Norte-Estación San Isidro,4.0,21.0,4.0,21.0,6.0,21.0
+345,La Doña-Corredor Norte-Estación San Isidro,4.0,21.0,4.0,21.0,6.0,21.0
