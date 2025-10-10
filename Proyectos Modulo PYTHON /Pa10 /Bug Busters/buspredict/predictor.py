@@ -1,7 +1,3 @@
-"""
-Módulo de Predicción de Intervalos
-Modelo predictivo para estimar tiempos de espera entre buses
-"""
 import pandas as pd
 import numpy as np
 from pathlib import Path
@@ -20,12 +16,6 @@ class ModeloPredictivoHeadway:
     """
     
     def __init__(self, ruta_eventos: str):
-        """
-        Inicializa el modelo cargando datos históricos.
-        
-        Args:
-            ruta_eventos: Ruta al archivo eventos_buses.csv
-        """
         ruta_eventos = Path(ruta_eventos).resolve()
         if not ruta_eventos.exists():
             raise FileNotFoundError(
