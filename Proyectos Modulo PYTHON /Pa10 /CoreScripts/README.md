@@ -93,3 +93,76 @@ HeartRiskSystem/
         ├── eda.py           # Exploratory Data Analysis
         └── models_predictive.py  # Entrenamiento y predicción
 
+
+
+## 🚀 Instalación y Ejecución
+
+### 1️⃣ Clona este repositorio
+```bash
+git clone https://github.com/tuusuario/HeartRiskSystem.git
+cd HeartRiskSystem
+2️⃣ Instala las dependencias
+bash
+Copiar código
+pip install -r requirements.txt
+3️⃣ Ejecuta el sistema
+Si es una versión de consola:
+
+bash
+Copiar código
+python main.py
+O si incluye interfaz (ejemplo con Streamlit):
+
+bash
+Copiar código
+streamlit run app.py
+🧮 Datos de Entrada
+El sistema requiere un conjunto de datos con las siguientes columnas (ejemplo):
+
+age	sex	cp	trestbps	chol	fbs	restecg	thalach	exang	oldpeak	slope	ca	thal	target
+63	1	3	145	233	1	0	150	0	2.3	0	0	1	1
+
+📍 El atributo target indica 1 = presencia de enfermedad, 0 = ausencia.
+
+📊 Ejemplo de Resultados
+Precisión del modelo: 0.87
+
+Matriz de confusión:
+
+Curva ROC:
+
+🧠 Modelos de Machine Learning
+Los modelos comparados incluyen:
+
+Logistic Regression
+
+Random Forest Classifier
+
+Support Vector Machine
+
+K-Nearest Neighbors
+
+Decision Tree
+
+El mejor modelo se selecciona automáticamente según su rendimiento (accuracy y AUC).
+
+🖼️ Capturas de Pantalla (si aplica)
+Predicción	Visualización
+
+🧪 Evaluación del Modelo
+Métrica	Valor
+Accuracy	0.87
+Precision	0.86
+Recall	0.84
+F1-Score	0.85
+
+💡 Posibles Mejoras Futuras
+Integración con API médica.
+
+Versión web con Flask o FastAPI.
+
+Almacenamiento en base de datos (MySQL / MongoDB).
+
+Entrenamiento automático con nuevos datos.
+
+Dashboard interactivo de resultados.
