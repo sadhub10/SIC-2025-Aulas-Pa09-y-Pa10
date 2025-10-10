@@ -75,7 +75,7 @@ plotly==5.3.1
 
 El proyecto está estructurado de la siguiente manera:
 ```text
-student_finance_project/
+data_analisis_student/
 ├── data/                        # Datos crudos, procesados y finales
 │   ├── raw/                     # Datos crudos (dataset.xlsx)
 │   ├── interim/                 # Datos procesados (dataset_clean.csv)
@@ -83,15 +83,15 @@ student_finance_project/
 ├── docs/                        # Documentación y recursos adicionales
 │   └── figures/                 # Gráficos generados
 ├── src/                         # Código fuente
-│   ├── __init__.py              # Indica que es un paquete
+│   ├── __init__.py              # este no lo logre
 │   ├── config.py                # Configuración del proyecto (rutas, etc.)
 │   ├── data_prep.py             # Preprocesamiento de datos
 │   ├── features.py              # Generación de gráficos y análisis
 │   ├── log.py                   # Sistema de logging
 │   ├── mapping_builder.py       # Mapeo de columnas
 │   ├── data_audit.py            # Auditoría de datos
-│   ├── app.py                   # Streamlit app (landing page + dashboard)
-│   └── run_all.py               # Orquestador para ejecutar todo el pipeline
+    └── run_all.py               # Orquestador para ejecutar todo el pipeline
+├── app.py                   # Streamlit app (landing page + dashboard)
 ├── requirements.txt             # Dependencias del proyecto
 └── README.md                    # Este archivo
 ```
