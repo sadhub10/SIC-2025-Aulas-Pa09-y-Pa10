@@ -1,6 +1,6 @@
 <div align="center">
 
-# ❤️ **HeartRiskSystem**
+# **HeartRiskSystem**
 ### 🩺 *Sistema Predictivo de Riesgo Cardíaco Basado en Machine Learning*
 
 <img src="assets/image.png" alt="HeartRiskSystem" width="260"/>
@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 **Descripción General**
+## **Descripción General**
 
 **HeartRiskSystem** es una plataforma analítica desarrollada en **Python**, enfocada en la **predicción del riesgo de enfermedad cardíaca** mediante algoritmos de *Machine Learning*.  
 
@@ -21,7 +21,7 @@ Gracias al modelo predictivo entrenado, el sistema puede clasificar a cada pacie
 
 ---
 
-## 💡 **Contexto del Problema**
+## **Contexto del Problema**
 
 Las enfermedades cardiovasculares son una de las principales causas de mortalidad en el mundo.  
 La detección temprana es crucial para prevenir complicaciones graves y reducir la carga en los sistemas de salud.  
@@ -31,12 +31,12 @@ Sin embargo, muchos diagnósticos dependen del juicio médico y de datos dispers
 
 ---
 
-## 🎯 **Objetivos del Proyecto**
+## **Objetivos del Proyecto**
 
-### 🎯 Objetivo General
+### Objetivo General
 Desarrollar un sistema inteligente que permita **predecir el riesgo de enfermedad cardíaca** a partir de variables clínicas de entrada.
 
-### 🔹 Objetivos Específicos
+### Objetivos Específicos
 - 🧹 Implementar un proceso de **limpieza y normalización** de datos médicos.  
 - 🤖 Entrenar un modelo predictivo robusto usando algoritmos de *Machine Learning*.  
 - 📊 Automatizar la **generación de reportes individuales** para cada paciente.  
