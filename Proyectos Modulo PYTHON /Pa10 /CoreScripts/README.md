@@ -212,8 +212,10 @@ Licencia MIT — ver `LICENSE`.
 
 ## 📬 Contacto
 
-Desarrollador: **Joel Monrroy** (o tu nombre)
-Repositorio: `https://github.com/tuusuario/HeartRiskSystem`
+Coordinador: **Joel Monrroy** 
+Frontend: **Gabriel Valderrama**
+Backend: **Manuel Rojas**
+Depuración y reportes: **Gustavo De La Rivera**
 
 ---
 
