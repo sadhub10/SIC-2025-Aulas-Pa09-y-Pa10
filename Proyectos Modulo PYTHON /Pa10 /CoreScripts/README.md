@@ -2,7 +2,9 @@
 
 ### 🩺 Sistema Predictivo de Riesgo Cardíaco — *Bonito y listo para usar*
 
-<img src="assets/image.png" alt="HeartRiskSystem" width="260"/>
+<div align="center">
+  <img src="assets/image.png" alt="HeartRiskSystem" width="260"/>
+</div>
 
 
 **Análisis inteligente, diagnóstico preventivo y apoyo clínico con datos médicos reales.**
