@@ -1,0 +1,26 @@
+﻿cultivo,temporada_siembra,tiempo_cosecha,temperatura_ideal,lluvia,rendimiento_promedio,recomendaciones
+Arroz,Mayo - Julio,4-5 meses,20-30 °C,Alta,3.8 t/ha,Ideal sembrar al inicio de lluvias
+Maíz,Mayo - Junio,3-4 meses,18-28 °C,Media,2.5 t/ha,Sembrar antes de temporada de lluvias fuertes
+Tomate,Diciembre - Febrero,2-3 meses,22-28 °C,Baja,25 t/ha,Requiere riego en verano
+Yuca,Todo el año (mejor en mayo),8-12 meses,20-30 °C,Media,15 t/ha,Tolera suelos pobres pero necesita espacio
+Frijol,Agosto - Septiembre,2-3 meses,20-30 °C,Media,1.2 t/ha,Ideal tras cultivos de maíz para rotación
+Café,Mayo - Junio,2-3 años,18-24 °C,Alta,0.8 t/ha,Prefiere suelos altos y sombreados
+Caña de Azúcar,Mayo - Julio,12-18 meses,22-30 °C,Alta,80 t/ha,Necesita suelos fértiles y riego adecuado
+Plátano,Todo el año,9-12 meses,20-30 °C,Alta,20 t/ha,Crece mejor en suelos húmedos
+Cebolla,Agosto - Octubre,4-5 meses,18-28 °C,Media,18 t/ha,Requiere control de plagas y riego regular
+Melón,Enero - Marzo,2-3 meses,24-30 °C,Baja,12 t/ha,Prefiere suelos arenosos y clima seco
+Sandía,Diciembre - Febrero,2-3 meses,24-30 °C,Baja,20 t/ha,Requiere suelos arenosos y riego constante
+Papaya,Todo el año (preferible en mayo),6-9 meses,22-30 °C,Media,30 t/ha,Requiere suelos bien drenados y clima cálido
+Piña,Mayo - Junio,18-24 meses,22-30 °C,Alta,60 t/ha,Alta demanda de nutrientes y riego
+Banano,Todo el año,9-12 meses,22-30 °C,Alta,40 t/ha,Necesita alta humedad y sombra parcial
+Aguacate,Mayo - Junio,3-5 años,20-28 °C,Media,8 t/ha,Requiere suelos profundos y buen drenaje
+Naranja,Mayo - Julio,4-5 años,20-30 °C,Media,25 t/ha,Prefiere suelos fértiles y buen riego
+Limón,Todo el año,3-4 años,22-30 °C,Media,20 t/ha,Requiere riego moderado
+Mango,Abril - Junio,3-5 años,24-30 °C,Media,12 t/ha,Requiere clima cálido y riego constante
+Guandú,Agosto - Septiembre,3-4 meses,20-30 °C,Media,1.5 t/ha,Ideal en rotación con maíz
+Ñame,Mayo - Julio,9-12 meses,20-28 °C,Alta,10 t/ha,Prefiere suelos húmedos y fértiles
+Repollo,Agosto - Octubre,3-4 meses,18-24 °C,Media,35 t/ha,Requiere control de plagas
+Lechuga,Agosto - Octubre,2-3 meses,18-24 °C,Media,25 t/ha,Prefiere clima fresco
+Pepino,Agosto - Octubre,2-3 meses,20-28 °C,Media,22 t/ha,Tolera climas cálidos
+Pimentón,Agosto - Octubre,3-4 meses,22-28 °C,Media,18 t/ha,Necesita riego regular
+Zapallo,Mayo - Julio,4-5 meses,22-28 °C,Media,30 t/ha,Ideal en climas tropicales húmedos
