@@ -9,12 +9,7 @@ warnings.filterwarnings('ignore')
 # ==========================================================
 # 🧩 MODELO PREDICTIVO
 # ==========================================================
-class ModeloPredictivoHeadway:
-    """
-    Modelo predictivo basado en estadísticas históricas.
-    Predice el tiempo de espera (headway) entre buses.
-    """
-    
+class ModeloPredictivoHeadway: # Modelo predictivo basado en estadísticas históricas. Predice el tiempo de espera (headway) entre buses.      
     def __init__(self, ruta_eventos: str):
         ruta_eventos = Path(ruta_eventos).resolve()
         if not ruta_eventos.exists():
@@ -31,14 +26,7 @@ class ModeloPredictivoHeadway:
         self.modelo_entrenado = None
         self.metricas = {}
         
-    def entrenar_modelo(self) -> Dict:
-        """
-        Entrena el modelo usando estadísticas agrupadas.
-        Calcula promedios por ruta, hora, tipo de día y tipo de ruta.
-        
-        Returns:
-            Diccionario con métricas del modelo
-        """
+    def entrenar_modelo(self) -> Dict: #Entrena el modelo usando estadísticas agrupadas. Calcula promedios por ruta, hora, tipo de día y tipo de ruta.
         print("\n🎯 Entrenando modelo predictivo...")
         print("   Método: Promedios estadísticos por contexto")
         
@@ -90,11 +78,9 @@ class ModeloPredictivoHeadway:
         
         return self.metricas
     
-    def predecir(self, id_ruta: str, hora: int, es_fin_semana: bool, 
+    def predecir(self, id_ruta: str, hora: int, es_fin_semana: bool, #predice el intervalo de espera para una ruta, hora y tipo de día específicos.
                  tipo_ruta: str = 'urbana') -> Dict:
-        """
-        Predice el intervalo de espera para una ruta específica.
-        """
+
         if self.modelo_entrenado is None:
             raise ValueError("Modelo no entrenado. Ejecuta entrenar_modelo() primero.")
         
@@ -184,9 +170,8 @@ class ModeloPredictivoHeadway:
             'num_observaciones': None,
             'metodo': 'Promedio global'
         }
-    
-    def predecir_multiple(self, id_ruta: str, fecha: str, tipo_ruta: str = 'urbana') -> pd.DataFrame:
-        """Predice intervalos para todas las horas de un día específico."""
+
+    def predecir_multiple(self, id_ruta: str, fecha: str, tipo_ruta: str = 'urbana') -> pd.DataFrame: #Predice intervalos para todas las horas de un día específico.
         try:
             fecha_dt = pd.to_datetime(fecha)
             es_fin_semana = fecha_dt.weekday() >= 5
@@ -208,15 +193,13 @@ class ModeloPredictivoHeadway:
 # ==========================================================
 # 📊 EVALUADOR DEL MODELO
 # ==========================================================
-class EvaluadorModelo:
-    """Evalúa el rendimiento del modelo predictivo."""
+class EvaluadorModelo: #Evalúa el rendimiento del modelo predictivo.
     
     def __init__(self, modelo: ModeloPredictivoHeadway):
         self.modelo = modelo
         self.resultados_evaluacion = None
-    
-    def evaluar(self, muestra_size: int = 1000) -> Dict:
-        """Evalúa el modelo usando una muestra de datos."""
+
+    def evaluar(self, muestra_size: int = 1000) -> Dict: #Evalúa el modelo usando una muestra de datos.
         if self.modelo.df_eventos.empty:
             print("⚠️ No hay datos disponibles para evaluar el modelo.")
             return {'mae': None, 'rmse': None, 'mape': None, 'mensaje': 'Sin datos'}
@@ -281,8 +264,7 @@ class PredictorHeadway:
         self.modelo = None
         self.evaluador = None
     
-    def preparar_modelo(self) -> Dict:
-        """Prepara el modelo completo: carga, entrena y evalúa."""
+    def preparar_modelo(self) -> Dict: #Prepara y entrena el modelo predictivo.
         print("\n" + "="*60)
         print("PREPARACIÓN DEL MODELO PREDICTIVO")
         print("="*60)
@@ -299,14 +281,12 @@ class PredictorHeadway:
         
         return {'entrenamiento': metricas_entrenamiento, 'evaluacion': metricas_evaluacion}
     
-    def obtener_rutas_disponibles(self, limite: int = 20) -> pd.DataFrame:
-        """Obtiene lista de rutas disponibles para predicción."""
+    def obtener_rutas_disponibles(self, limite: int = 20) -> pd.DataFrame: #Obtiene las rutas con más eventos registrados.
         return self.df_resumen.nlargest(limite, 'num_eventos')[
             ['id_ruta', 'nombre_ruta', 'tipo_ruta', 'num_eventos', 'intervalo_promedio']
         ]
     
-    def predecir_intervalo(self, id_ruta: str, hora: int, es_fin_semana: bool) -> Dict:
-        """Realiza una predicción individual."""
+    def predecir_intervalo(self, id_ruta: str, hora: int, es_fin_semana: bool) -> Dict: 
         if self.modelo is None:
             raise ValueError("Modelo no preparado. Ejecuta preparar_modelo() primero.")
         
@@ -319,8 +299,7 @@ class PredictorHeadway:
             prediccion['tipo_ruta'] = tipo_ruta
         return prediccion
     
-    def predecir_dia_completo(self, id_ruta: str, tipo_dia: str = 'laboral') -> pd.DataFrame:
-        """Predice intervalos para todas las horas del día."""
+    def predecir_dia_completo(self, id_ruta: str, tipo_dia: str = 'laboral') -> pd.DataFrame: #Predice intervalos para todas las horas de un día específico.
         if self.modelo is None:
             raise ValueError("Modelo no preparado. Ejecuta preparar_modelo() primero.")
         
@@ -329,3 +308,4 @@ class PredictorHeadway:
         tipo_ruta = ruta_info.iloc[0].get('tipo_ruta', 'urbana') if len(ruta_info) > 0 else 'urbana'
         predicciones = self.modelo.predecir_multiple(id_ruta, tipo_dia, tipo_ruta)
         return predicciones, (ruta_info.iloc[0]['nombre_ruta'] if len(ruta_info) > 0 else 'Desconocida')
+
