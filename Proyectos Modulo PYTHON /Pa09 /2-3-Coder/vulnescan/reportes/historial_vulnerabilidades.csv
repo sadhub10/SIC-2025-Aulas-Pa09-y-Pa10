@@ -1,0 +1,34 @@
+ID_VULN,URL_AFECTADA,SEVERIDAD,TIPO_FALLO,FECHA_REPORTE
+MISSING_HSTS,https://google.com,Media,Falta la cabecera Strict-Transport-Security (HSTS),2025-10-02 10:05:45
+NO_XCTO,https://google.com,Baja,Falta la cabecera X-Content-Type-Options,2025-10-02 10:05:45
+MISSING_CSP,https://google.com,Media,Falta la cabecera Content-Security-Policy (CSP),2025-10-02 10:05:45
+NO_REFERRER_POLICY,https://google.com,Informativa,Falta la cabecera Referrer-Policy,2025-10-02 10:05:45
+MISSING_HSTS,https://securityheaders.com,Media,Falta la cabecera Strict-Transport-Security (HSTS),2025-10-02 10:28:29
+MISSING_CSP,https://securityheaders.com,Media,Falta la cabecera Content-Security-Policy (CSP),2025-10-02 10:28:29
+EXPOSED_BACKUP_FILES,https://securityheaders.com/robots.txt,Media,Archivo expuesto: robots.txt (200 OK),2025-10-02 10:28:29
+MISSING_HSTS,https://google.com,Media,Falta la cabecera Strict-Transport-Security (HSTS),2025-10-02 10:36:53
+NO_XCTO,https://google.com,Baja,Falta la cabecera X-Content-Type-Options,2025-10-02 10:36:53
+MISSING_CSP,https://google.com,Media,Falta la cabecera Content-Security-Policy (CSP),2025-10-02 10:36:53
+NO_REFERRER_POLICY,https://google.com,Informativa,Falta la cabecera Referrer-Policy,2025-10-02 10:36:53
+EXPOSED_BACKUP_FILES,https://www.google.com/robots.txt,Informativa,Archivo accesible (esperado): robots.txt (200 OK),2025-10-02 10:36:53
+EXPOSED_BACKUP_FILES,https://www.google.com/sitemap.xml,Informativa,Archivo accesible (esperado): sitemap.xml (200 OK),2025-10-02 10:36:53
+SERVER_INFO_EXPOSED,https://www.rojadirectaenvivo.pl/,Informativa,Expone la cabecera X-Powered-By: PHP/5.4.16,2025-10-02 10:40:40
+NO_REFERRER_POLICY,https://www.rojadirectaenvivo.pl/,Informativa,Falta la cabecera Referrer-Policy,2025-10-02 10:40:40
+MISSING_CSP,https://www.rojadirectaenvivo.pl/,Media,Falta la cabecera Content-Security-Policy (CSP),2025-10-02 10:40:40
+NO_XFO,https://www.rojadirectaenvivo.pl/,Baja,Falta la cabecera X-Frame-Options,2025-10-02 10:40:40
+MISSING_HSTS,https://www.rojadirectaenvivo.pl/,Media,Falta la cabecera Strict-Transport-Security (HSTS),2025-10-02 10:40:40
+NO_XCTO,https://www.rojadirectaenvivo.pl/,Baja,Falta la cabecera X-Content-Type-Options,2025-10-02 10:40:40
+EXPOSED_BACKUP_FILES,http://localhost:8501/robots.txt,Informativa,Archivo accesible (esperado): robots.txt (200 OK),2025-10-07 01:40:39
+EXPOSED_BACKUP_FILES,http://localhost:8501/old.zip,Media,Archivo sensible expuesto: old.zip (200 OK),2025-10-07 01:40:39
+EXPOSED_BACKUP_FILES,http://localhost:8501/admin/backup.zip,Media,Archivo sensible expuesto: admin/backup.zip (200 OK),2025-10-07 01:40:39
+EXPOSED_BACKUP_FILES,http://localhost:8501/test.php,Media,Archivo sensible expuesto: test.php (200 OK),2025-10-07 01:40:39
+EXPOSED_BACKUP_FILES,http://localhost:8501/README.md,Media,Archivo sensible expuesto: README.md (200 OK),2025-10-07 01:40:39
+EXPOSED_BACKUP_FILES,http://localhost:8501/wp-config.php.bak,Media,Archivo sensible expuesto: wp-config.php.bak (200 OK),2025-10-07 01:40:39
+SERVER_INFO_EXPOSED,http://localhost:8501/,Informativa,Expone la cabecera Server: TornadoServer/6.5.2,2025-10-07 01:40:39
+NO_REFERRER_POLICY,http://localhost:8501/,Informativa,Falta la cabecera Referrer-Policy,2025-10-07 01:40:39
+MISSING_CSP,http://localhost:8501/,Media,Falta la cabecera Content-Security-Policy (CSP),2025-10-07 01:40:39
+NO_XCTO,http://localhost:8501/,Baja,Falta la cabecera X-Content-Type-Options,2025-10-07 01:40:39
+NO_XFO,http://localhost:8501/,Baja,Falta la cabecera X-Frame-Options,2025-10-07 01:40:39
+MISSING_HSTS,http://localhost:8501/,Media,Falta la cabecera Strict-Transport-Security (HSTS),2025-10-07 01:40:39
+EXPOSED_BACKUP_FILES,http://localhost:8501/.git/config,Media,Archivo sensible expuesto: .git/config (200 OK),2025-10-07 01:40:39
+EXPOSED_BACKUP_FILES,http://localhost:8501/sitemap.xml,Informativa,Archivo accesible (esperado): sitemap.xml (200 OK),2025-10-07 01:40:39

@@ -1,0 +1,5 @@
+ID_VULN,URL_AFECTADA,SEVERIDAD,TIPO_FALLO
+MISSING_HSTS,https://google.com,Media,Falta la cabecera Strict-Transport-Security (HSTS)
+NO_XCTO,https://google.com,Baja,Falta la cabecera X-Content-Type-Options
+MISSING_CSP,https://google.com,Media,Falta la cabecera Content-Security-Policy (CSP)
+NO_REFERRER_POLICY,https://google.com,Informativa,Falta la cabecera Referrer-Policy

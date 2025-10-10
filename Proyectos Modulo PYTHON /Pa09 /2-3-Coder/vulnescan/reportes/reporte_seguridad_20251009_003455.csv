@@ -1,0 +1,3 @@
+ID_VULN,URL_AFECTADA,SEVERIDAD,TIPO_FALLO
+MISSING_CSP,https://www.netflix.com/pa/,Media,Falta la cabecera Content-Security-Policy (CSP)
+NO_REFERRER_POLICY,https://www.netflix.com/pa/,Informativa,Falta la cabecera Referrer-Policy

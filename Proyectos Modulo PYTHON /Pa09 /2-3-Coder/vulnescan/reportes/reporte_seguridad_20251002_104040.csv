@@ -1,0 +1,7 @@
+ID_VULN,URL_AFECTADA,SEVERIDAD,TIPO_FALLO
+MISSING_HSTS,https://www.rojadirectaenvivo.pl/,Media,Falta la cabecera Strict-Transport-Security (HSTS)
+NO_XFO,https://www.rojadirectaenvivo.pl/,Baja,Falta la cabecera X-Frame-Options
+NO_XCTO,https://www.rojadirectaenvivo.pl/,Baja,Falta la cabecera X-Content-Type-Options
+MISSING_CSP,https://www.rojadirectaenvivo.pl/,Media,Falta la cabecera Content-Security-Policy (CSP)
+NO_REFERRER_POLICY,https://www.rojadirectaenvivo.pl/,Informativa,Falta la cabecera Referrer-Policy
+SERVER_INFO_EXPOSED,https://www.rojadirectaenvivo.pl/,Informativa,Expone la cabecera X-Powered-By: PHP/5.4.16

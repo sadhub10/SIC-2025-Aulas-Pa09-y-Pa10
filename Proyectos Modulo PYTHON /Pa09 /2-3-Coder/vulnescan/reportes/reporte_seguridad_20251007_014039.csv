@@ -1,0 +1,15 @@
+ID_VULN,URL_AFECTADA,SEVERIDAD,TIPO_FALLO
+MISSING_HSTS,http://localhost:8501/,Media,Falta la cabecera Strict-Transport-Security (HSTS)
+NO_XFO,http://localhost:8501/,Baja,Falta la cabecera X-Frame-Options
+NO_XCTO,http://localhost:8501/,Baja,Falta la cabecera X-Content-Type-Options
+MISSING_CSP,http://localhost:8501/,Media,Falta la cabecera Content-Security-Policy (CSP)
+NO_REFERRER_POLICY,http://localhost:8501/,Informativa,Falta la cabecera Referrer-Policy
+SERVER_INFO_EXPOSED,http://localhost:8501/,Informativa,Expone la cabecera Server: TornadoServer/6.5.2
+EXPOSED_BACKUP_FILES,http://localhost:8501/.git/config,Media,Archivo sensible expuesto: .git/config (200 OK)
+EXPOSED_BACKUP_FILES,http://localhost:8501/wp-config.php.bak,Media,Archivo sensible expuesto: wp-config.php.bak (200 OK)
+EXPOSED_BACKUP_FILES,http://localhost:8501/README.md,Media,Archivo sensible expuesto: README.md (200 OK)
+EXPOSED_BACKUP_FILES,http://localhost:8501/test.php,Media,Archivo sensible expuesto: test.php (200 OK)
+EXPOSED_BACKUP_FILES,http://localhost:8501/admin/backup.zip,Media,Archivo sensible expuesto: admin/backup.zip (200 OK)
+EXPOSED_BACKUP_FILES,http://localhost:8501/old.zip,Media,Archivo sensible expuesto: old.zip (200 OK)
+EXPOSED_BACKUP_FILES,http://localhost:8501/robots.txt,Informativa,Archivo accesible (esperado): robots.txt (200 OK)
+EXPOSED_BACKUP_FILES,http://localhost:8501/sitemap.xml,Informativa,Archivo accesible (esperado): sitemap.xml (200 OK)

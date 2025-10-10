@@ -1,0 +1,7 @@
+ID_VULN,URL_AFECTADA,SEVERIDAD,TIPO_FALLO
+MISSING_HSTS,https://manga-oni.com/,Media,Falta la cabecera Strict-Transport-Security (HSTS)
+NO_XFO,https://manga-oni.com/,Baja,Falta la cabecera X-Frame-Options
+NO_XCTO,https://manga-oni.com/,Baja,Falta la cabecera X-Content-Type-Options
+MISSING_CSP,https://manga-oni.com/,Media,Falta la cabecera Content-Security-Policy (CSP)
+NO_REFERRER_POLICY,https://manga-oni.com/,Informativa,Falta la cabecera Referrer-Policy
+EXPOSED_BACKUP_FILES,https://manga-oni.com/README.md,Informativa,Archivo accesible expuesto: README.md (200 OK)
