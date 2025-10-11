@@ -112,3 +112,12 @@ Cumplimiento de principios de uso responsable y educativo de los datos.
 
 Lenguaje visual neutral y no alarmista en la presentación de resultados.
 
+## 📜 Licencia
+
+Este proyecto es de uso académico y forma parte del
+Samsung Innovation Campus – Módulo Python 2025.
+
+© 2025 Samsung Electronics – Todos los derechos reservados.
+El código y los contenidos pueden ser reutilizados con fines educativos citando la fuente original.
+
+---
