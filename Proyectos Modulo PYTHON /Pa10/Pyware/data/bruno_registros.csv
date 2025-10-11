@@ -1,0 +1,4 @@
+fecha,clima,temperatura_C,actividad_fisica,sueño,dieta_tipo,rigidez_score,dolor_score,inflamacion_score,fatiga_score,estado_animo
+2025-10-09,Lluvioso,26.0,0,Bueno,Inflamatoria,3,4,2,5,Frustrado
+2025-10-09,Nublado,26.8,0,Ok,Balanceada,1,3,2,4,Frustrado
+2025-10-09,Soleado,32.0,1,Excelente,Antiinflamatoria,1,1,1,2,Feliz

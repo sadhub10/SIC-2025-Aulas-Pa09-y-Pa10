@@ -1,0 +1,26 @@
+{
+    "andres": {
+        "contrasena": "1234",
+        "nombre": "Andres",
+        "apellido": "Gómez",
+        "email": "andres@mail.com",
+        "edad": 35,
+        "genero": "Masculino"
+    },
+    "ana": {
+        "contrasena": "5678",
+        "nombre": "Ana",
+        "apellido": "Martínez",
+        "email": "ana.martinez@corp.com",
+        "edad": 42,
+        "genero": "Femenino"
+    },
+    "bruno": {
+        "contrasena": "123",
+        "nombre": "bruno",
+        "apellido": "ferreira",
+        "email": "bruno.ferreira@gmail.com",
+        "edad": 22,
+        "genero": "Masculino"
+    }
+}
