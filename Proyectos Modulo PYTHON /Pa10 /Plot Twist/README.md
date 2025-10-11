@@ -74,7 +74,7 @@ El sistema analiza información clínica (edad, género, presión arterial, cole
 
 | Componente | Tecnología |
 |-------------|-------------|
-| Lenguaje | Python 3.x |
+| Lenguaje | Python 3.14 |
 | Manipulación de Datos | Pandas, NumPy |
 | Visualización | Matplotlib, Seaborn |
 | Entorno de Desarrollo | Jupyter Notebook |
