@@ -86,11 +86,10 @@ El sistema analiza información clínica (edad, género, presión arterial, cole
 
 ```plaintext
 PlotTwist-Analysis/
-├── CodigoSIC_Proyecto1_PlotTwist.ipynb   # Notebook principal del análisis
+├── proyecto_final_modulo_python_plottwist.ipynb   # Notebook principal del análisis
 ├── main.py                               # Script auxiliar o automatización
-├── data/                                 # Conjuntos de datos utilizados
+├── basededatos/                          # Conjuntos de datos utilizados
 ├── visualizations/                       # Gráficos y resultados generados
-├── docs/                                 # Documentación y referencias
 └── README.md                             # Este archivo
 ```
 ---
