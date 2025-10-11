@@ -19,12 +19,8 @@
 - [⚙️ Metodología de Análisis](#️-metodología-de-análisis)
 - [🧠 Stack Tecnológico](#-stack-tecnológico)
 - [📁 Estructura del Proyecto](#-estructura-del-proyecto)
-- [⚡ Instalación y Ejecución](#-instalación-y-ejecución)
-- [📈 Métricas de Éxito](#-métricas-de-éxito)
 - [👥 Equipo de Desarrollo](#-equipo-de-desarrollo)
-- [🧩 Resultados Esperados](#-resultados-esperados)
 - [🔒 Consideraciones Éticas y de Privacidad](#-consideraciones-éticas-y-de-privacidad)
-- [📜 Licencia](#-licencia)
 
 ---
 
