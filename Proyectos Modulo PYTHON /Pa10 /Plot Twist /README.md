@@ -96,16 +96,19 @@ PlotTwist-Analysis/
 ├── visualizations/                       # Gráficos y resultados generados
 ├── docs/                                 # Documentación y referencias
 └── README.md                             # Este archivo
+```
+---
 
-##👥 Equipo de Desarrollo
+## 👥 Equipo de Desarrollo
   | Integrante           | Rol en el Proyecto                                                             |
 | -------------------- | ------------------------------------------------------------------------------ |
 | **Anel Ruiz**        | Análisis exploratorio del dataset y definición del diccionario                 |
 | **Daniella De León** | Análisis bivariado de variables categóricas y numéricas vs target              |
 | **James Tack**       | Creación de gráficos para medidas de tendencia central, histogramas y boxplots |
 | **Steven Ampie**     | Análisis de dataset, creación de gráficos categóricos y de correlación         |
+---
 
-##🔒 Consideraciones Éticas y de Privacidad
+## 🔒 Consideraciones Éticas y de Privacidad
 
 Se utilizan datasets públicos (Kaggle), sin datos personales reales.
 
