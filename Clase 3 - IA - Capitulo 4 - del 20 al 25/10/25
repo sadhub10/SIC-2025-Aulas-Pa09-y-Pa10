@@ -1,0 +1,285 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/sadhub10/SIC-2025-Aulas-Pa09-y-Pa10/blob/main/Clase%203%20-%20IA%20-%20Capitulo%204%20-%20del%2020%20al%2025/10/25\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "id": "7983bb95",
+      "metadata": {
+        "id": "7983bb95"
+      },
+      "source": [
+        "# Samsung Innovation Campus – Módulo Python  \n",
+        "## Práctica guiada: Probabilidad aplicada y fundamentos para IA  \n",
+        "**Semana 14 · Capítulo 4**\n",
+        "\n",
+        "  \n",
+        "**Formato:** Notebook ejecutable (Google Colab)  \n",
+        "\n",
+        "---\n",
+        "\n",
+        "### Objetivos de aprendizaje\n",
+        "- Generar y explorar datos sintéticos de forma reproducible.\n",
+        "- Visualizar distribuciones y conectar histogramas con funciones de densidad.\n",
+        "- Estimar parámetros y construir intervalos de confianza básicos.\n",
+        "- Definir variables aleatorias discretas y calcular probabilidades exactas.\n",
+        "- Preparar las bases estadísticas necesarias para temas de IA posteriores."
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "id": "3c0ad0b9",
+      "metadata": {
+        "id": "3c0ad0b9"
+      },
+      "source": [
+        "### Requisitos técnicos\n",
+        "- Ejecute primero la celda de **configuración** para instalar/importar librerías y fijar semilla.\n",
+        "- Use Python 3.10+ (Colab está bien)."
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "id": "30a8b1e1",
+      "metadata": {
+        "id": "30a8b1e1",
+        "outputId": "0f93fb93-af85-4e4f-f477-9768c37e1eb0"
+      },
+      "outputs": [
+        {
+          "name": "stdout",
+          "output_type": "stream",
+          "text": [
+            "Librerías cargadas. Versión NumPy: 2.1.3\n"
+          ]
+        }
+      ],
+      "source": [
+        "# Configuración inicial (ejecutar primero)\n",
+        "import numpy as np\n",
+        "import pandas as pd\n",
+        "import matplotlib.pyplot as plt\n",
+        "from scipy import stats\n",
+        "\n",
+        "np.random.seed(42)  # reproducibilidad\n",
+        "\n",
+        "print('Librerías cargadas. Versión NumPy:', np.__version__)\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "id": "9252c3a1",
+      "metadata": {
+        "id": "9252c3a1"
+      },
+      "source": [
+        "## Ejercicio 1 · Carga de datos sintéticos\n",
+        "**Descripción:** Genere un conjunto de datos que simule la **duración (minutos)** de llamadas al soporte técnico.  \n",
+        "**Supuesto razonable:** variable positiva, asimétrica (p. ej., distribución *Gamma* o *Lognormal*).\n",
+        "\n",
+        "**Tareas**\n",
+        "1. Genere `n=500` observaciones con parámetros que considere razonables.\n",
+        "2. Guarde el resultado en un `DataFrame` con la columna `duracion_min`.\n",
+        "3. Muestre `head()` y un resumen con `describe()`.\n",
+        "\n",
+        "> **Tip:** `stats.lognorm(s=sigma, scale=np.exp(mu)).rvs(n)`"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "id": "b64b3894",
+      "metadata": {
+        "id": "b64b3894"
+      },
+      "outputs": [],
+      "source": [
+        "# TODO: complete aquí\n",
+        "# 1. Defina el tamaño de la muestra (n)\n",
+        "# 2. Asigne los parámetros mu y sigma de la distribución lognormal\n",
+        "# 3. Genere los datos aleatorios\n",
+        "# 4. Cree un DataFrame llamado df con una columna 'duracion_min'\n",
+        "# 5. Muestre las primeras filas y el resumen estadístico\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "id": "b90c480a",
+      "metadata": {
+        "id": "b90c480a"
+      },
+      "source": [
+        "## Ejercicio 2 · Histograma y exploración visual\n",
+        "1. Grafique un **histograma** de `duracion_min` con al menos 30 bins.\n",
+        "2. Añada líneas verticales para **media** y **mediana**.\n",
+        "3. Interprete brevemente la asimetría observada."
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "id": "748e547f",
+      "metadata": {
+        "id": "748e547f"
+      },
+      "outputs": [],
+      "source": [
+        "# TODO: complete aquí\n",
+        "# 1. Cree una figura para el histograma\n",
+        "# 2. Grafique la variable 'duracion_min' con al menos 30 bins\n",
+        "# 3. Dibuje líneas verticales para la media y la mediana\n",
+        "# 4. Asigne etiquetas, título y leyenda\n",
+        "# 5. Muestre el gráfico\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "id": "f0496de3",
+      "metadata": {
+        "id": "f0496de3"
+      },
+      "source": [
+        "## Ejercicio 3 · Función de densidad teórica vs datos\n",
+        "1. Ajuste una distribución **Lognormal** a los datos mediante máxima verosimilitud.\n",
+        "2. Sobreponga su **densidad** al histograma normalizado.\n",
+        "3. Reporte los parámetros estimados.\n",
+        "\n",
+        "> **Tip:** `s, loc, scale = stats.lognorm.fit(df['duracion_min'], floc=0)`"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "id": "7876b25e",
+      "metadata": {
+        "id": "7876b25e"
+      },
+      "outputs": [],
+      "source": [
+        "# TODO: complete aquí\n",
+        "# 1. Ajuste los parámetros de la distribución lognormal con stats.lognorm.fit\n",
+        "# 2. Genere un rango de valores (x) para la curva de densidad\n",
+        "# 3. Calcule la función de densidad teórica (pdf)\n",
+        "# 4. Grafique el histograma y la curva de densidad ajustada\n",
+        "# 5. Incluya etiquetas, título y leyenda\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "id": "bc8c4fc6",
+      "metadata": {
+        "id": "bc8c4fc6"
+      },
+      "source": [
+        "## Ejercicio 4 · Intervalo de confianza para la media\n",
+        "Asumiendo **muestras grandes**, construya un **IC del 95%** para la media de `duracion_min` usando el **Teorema del Límite Central**.\n",
+        "\n",
+        "1. Calcule `media`, `desv_est` y `n`.\n",
+        "2. Construya el intervalo de confianza `mean ± z * (sd/√n)` con `z=1.96`.\n",
+        "3. Interprete el IC en el contexto del problema."
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "id": "c632ce04",
+      "metadata": {
+        "id": "c632ce04"
+      },
+      "outputs": [],
+      "source": [
+        "# TODO: complete aquí\n",
+        "# 1. Calcule la media y la desviación estándar de 'duracion_min'\n",
+        "# 2. Determine el tamaño de la muestra (n)\n",
+        "# 3. Use el valor z correspondiente a un 95% de confianza\n",
+        "# 4. Calcule los límites inferior y superior del intervalo de confianza\n",
+        "# 5. Muestre los resultados\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "id": "94172d74",
+      "metadata": {
+        "id": "94172d74"
+      },
+      "source": [
+        "## Ejercicio 5 · Variable aleatoria discreta (dos dados)\n",
+        "1. Defina la **distribución** de la **suma** al lanzar dos dados justos.\n",
+        "2. Calcule la probabilidad exacta de obtener suma `7`.\n",
+        "3. Verifique por **simulación** con `100_000` repeticiones.\n",
+        "\n",
+        "> **Resultado esperado:** `P(Suma=7) = 6/36 = 1/6 ≈ 0.1667`."
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "id": "dcf50ffe",
+      "metadata": {
+        "id": "dcf50ffe"
+      },
+      "outputs": [],
+      "source": [
+        "# TODO: complete aquí\n",
+        "# 1. Calcule la probabilidad exacta de obtener suma = 7 al lanzar dos dados\n",
+        "# 2. Simule N lanzamientos de dos dados (1-6)\n",
+        "# 3. Calcule la probabilidad simulada de que la suma sea 7\n",
+        "# 4. Compare ambos resultados (exacto vs simulado)\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "id": "8a7b9275",
+      "metadata": {
+        "id": "8a7b9275"
+      },
+      "source": [
+        "---\n",
+        "## Rúbrica de evaluación (10 pts)\n",
+        "- E1 Generación y limpieza de datos (2 pts)\n",
+        "- E2 Visualización y lectura de métricas (2 pts)\n",
+        "- E3 Ajuste y reporte de parámetros (2 pts)\n",
+        "- E4 Intervalo de confianza y análisis (2 pts)\n",
+        "- E5 Probabilidad discreta y simulación (2 pts)\n",
+        "\n",
+        "> Entrega: sube el `.ipynb` ejecutado con todas las celdas corridas (Kernel → Restart & Run All) y tus interpretaciones textuales."
+      ]
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3 (ipykernel)",
+      "language": "python",
+      "name": "python3"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "ipython",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.13.5"
+    },
+    "colab": {
+      "provenance": [],
+      "include_colab_link": true
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
