@@ -74,7 +74,7 @@ CodeScore/
 ## 🛠️ Instalación y Ejecución
 
 ### 1. Clonar el repositorio
-git clone https://github.com/sadhub10/SIC-2025-Aulas-Pa09-y-Pa10.git
+git clone https://github.com/sadhub10/SIC-2025-Aulas-Pa09-y-Pa10/Proyectos_IA/Pa09/CodeScore.git
 
 ### 2. Instalar dependencias
 pip install -r requirements.txt
