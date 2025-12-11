@@ -74,12 +74,15 @@ CodeScore/
 ## 🛠️ Instalación y Ejecución
 
 ### 1. Clonar el repositorio
-git clone https://github.com/sadhub10/SIC-2025-Aulas-Pa09-y-Pa10/Proyectos_IA/Pa09/CodeScore.git
+git clone https://github.com/sadhub10/SIC-2025-Aulas-Pa09-y-Pa10.git
 
-### 2. Instalar dependencias
+### 2. Entra al Proyecto
+cd "SIC-2025-Aulas-Pa09-y-Pa10/Proyectos IA/Pa09/CodeScore"
+
+### 3. Instalar dependencias
 pip install -r requirements.txt
 
-### 3. Ejecutar
+### 4. Ejecutar la aplicación
 python SecuredCard_IA.py
 
 ---
