@@ -16,7 +16,7 @@ Este proyecto está orientado a aplicaciones en:
 
 - **Clasificación de imagenes** de diferentes tipos de modulaciones
 - **Interfaz web intuitiva** desarrollada con Streamlit
-- **Arquitectura ResNet optimizada** para señales RF
+- **Arquitectura ResNet** para señales RF
 - **Estimación de nivel SNR** basada en confianza del modelo
 - **Visualización de probabilidades** por tipo de modulación
   
@@ -142,7 +142,7 @@ plotly>=5.17.0
 Sube una imagen de señal (waveform, constelación o espectro) en formato PNG/JPG.
 
 ### Paso 2: Analizar
-Presiona el botón **"ANALYZE SIGNAL"** para clasificar la modulación.
+Presiona el botón **"ANALIZAR SEÑAL"** para clasificar la modulación.
 
 ### Paso 3: Resultados
 El sistema mostrará:
