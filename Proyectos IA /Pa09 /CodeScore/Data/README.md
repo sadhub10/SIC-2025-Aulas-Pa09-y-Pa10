@@ -86,9 +86,10 @@ python SecuredCard_IA.py
 
 ## 👥 Equipo de Desarrollo – CodeScore
 ```
-|--------|------|
-| Adriel Pérez | Coordinador + Entrenamiento de Modelos |
-| Ernesto Yee | Dev Backend + Documentación |
-| Sharon Correa | Dev Frontend Flet |
-| Edgard González | Documentación + QA |
+| Nombre          | Rol                                    |
+| --------------- | -------------------------------------- |
+| Adriel Pérez    | Coordinador + Entrenamiento de Modelos |
+| Ernesto Yee     | Backend + Documentación                |
+| Sharon Correa   | Frontend Flet                          |
+| Edgard González | Documentación + QA                     |
 ---
