@@ -1,0 +1,6 @@
+streamlit>=1.38.0
+streamlit-webrtc>=0.64.5
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.26.0
+av>=12.3.0
