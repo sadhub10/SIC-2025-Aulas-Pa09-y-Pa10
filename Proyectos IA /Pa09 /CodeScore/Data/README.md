@@ -57,15 +57,16 @@ Este proyecto nace para atender un problema real:
 ## 📁 Estructura del Proyecto
 
 ```
-SecureCard_IA/
+CodeScore/
 ├── SecuredCard_IA.py
 ├── backend_fraude.py
-├── modelo_xgb_fraude.pkl
-├── modelo_isoforest_paysim_optimo.pkl
-├── logo1.png
-├── usuarios.csv
-├── transacciones.csv
-└── README.md
+├──README.md
+└── Data/
+    ├── modelo_xgb_fraude.pkl
+    ├── modelo_isoforest_paysim_optimo.pkl
+    ├── logo1.png
+    ├── usuarios.csv
+    └── transacciones.csv
 ```
 
 ---
@@ -85,14 +86,8 @@ python SecuredCard_IA.py
 
 ## 👥 Equipo de Desarrollo – CodeScore
 
-| Nombre | Rol |
 |--------|------|
-| Adriel Pérez | Coordinación y Modelos |
-| Ernesto Yee | Desarrollo y Documentación |
-| Sharon Correa | Desarrollo |
-| Edgard González | Documentación |
-
----
-
-## 📬 Contacto  
-Para mejoras, dudas o propuestas, puedes abrir un *Issue* en el repositorio.
+| Adriel Pérez | Coordinador + Entrenamiento de Modelos |
+| Ernesto Yee | Dev Backend + Documentación |
+| Sharon Correa | Dev Frontend Flet |
+| Edgard González | Documentación + QA |
