@@ -1,0 +1,4 @@
+Transacciones de Usuarios:
+Enlace: https://www.kaggle.com/datasets/stefanouccelli/tesis-1/data
+Tarjetas de Crédito
+Enlace: https://www.kaggle.com/datasets/jacklizhi/creditcard
