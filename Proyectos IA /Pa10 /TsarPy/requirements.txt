@@ -1,0 +1,7 @@
+easyocr
+pyaudio
+vosk
+pytesseract
+pillow
+pdf2image
+PyQt5

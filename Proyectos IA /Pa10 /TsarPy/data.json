@@ -1,0 +1,56 @@
+{
+  "extracciones": [
+    {
+      "fuente": "audio",
+      "fecha": "2025-12-08T18:58:01.222155",
+      "datos": {
+        "total": 1.09,
+        "impuesto": 0.081
+      }
+    },
+    {
+      "fuente": "documento",
+      "fecha": "2025-12-08T19:00:06.774172",
+      "datos": {
+        "previous": 1.0,
+        "tax": 300.0,
+        "total": 3301.0
+      }
+    },
+    {
+      "fuente": "imagen",
+      "fecha": "2025-12-08T19:01:16.417852",
+      "datos": {
+        "subttl": 70.71,
+        "itbms": 4.95,
+        "total": 75.66
+      }
+    },
+    {
+      "fuente": "imagen",
+      "fecha": "2025-12-08T20:47:27.103883",
+      "datos": {
+        "subttl": 70.71,
+        "itbms": 4.95,
+        "total": 75.66
+      }
+    },
+    {
+      "fuente": "documento",
+      "fecha": "2025-12-08T20:52:13.988242",
+      "datos": {
+        "previous": 1.0,
+        "tax": 300.0,
+        "total": 3301.0
+      }
+    },
+    {
+      "fuente": "audio",
+      "fecha": "2025-12-08T20:53:45.721964",
+      "datos": {
+        "total": 1.52,
+        "impuesto": 0.01
+      }
+    }
+  ]
+}
