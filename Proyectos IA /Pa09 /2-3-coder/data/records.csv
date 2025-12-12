@@ -1,0 +1,18 @@
+timestamp,source,filename,class,confidence
+2025-12-10 05:17:52,upload,Captura de pantalla 2025-12-08 213508.png,paper,0.7240
+2025-12-10 05:18:04,upload,Captura de pantalla 2025-12-08 213125.png,plastic,0.9996
+2025-12-10 05:18:27,upload,Captura de pantalla 2025-12-08 213125.png,plastic,0.9996
+2025-12-10 05:19:02,upload,Captura de pantalla 2025-12-08 213125.png,plastic,0.9996
+2025-12-10 05:19:11,upload,Captura de pantalla 2025-12-08 213125.png,plastic,0.9996
+2025-12-10 05:19:30,upload,Captura de pantalla 2025-12-09 204910.png,plastic,0.9493
+2025-12-10 05:29:41,webcam,webcam_capture,cardboard,0.8251
+2025-12-10 05:32:39,webcam,webcam_capture,cardboard,0.8251
+2025-12-10 05:33:05,webcam,webcam_capture,cardboard,0.8251
+2025-12-10 05:37:30,upload,Captura de pantalla 2025-12-09 210118.png,plastic,0.9280
+2025-12-11 12:23:55,upload,438c1180d20f3a9490fa8ef7d6c977b37326b7c59cd3b230a2ed404d.jpg,cardboard,0.7837
+2025-12-11 12:25:39,upload,download.jpg,glass,0.6023
+2025-12-11 12:26:20,upload,download.jpg,metal,0.9905
+2025-12-11 12:27:05,upload,images.jpg,plastic,0.6110
+2025-12-11 12:29:24,upload,images.jpg,cardboard,0.7136
+2025-12-11 12:30:24,upload,images.jpg,plastic,0.6110
+2025-12-11 12:31:40,upload,download.jpg,glass,0.9990
