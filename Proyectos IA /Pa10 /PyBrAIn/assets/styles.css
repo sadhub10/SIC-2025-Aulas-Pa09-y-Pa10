@@ -1,0 +1,277 @@
+/* =========================================================
+   assets/styles.css - PyBrAIn UI
+   ========================================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+* { font-family: 'Inter', sans-serif; }
+
+.stApp { background: #0a0e27; }
+
+/* Contenedor principal */
+.main-wrapper {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Header */
+.header-section {
+  text-align: center;
+  margin-bottom: 2.5rem;
+  padding: 1.5rem 0;
+}
+
+.main-title {
+  font-size: 2.6rem;
+  font-weight: 700;
+  background: linear-gradient(135deg, #00d4ff 0%, #0099ff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 0.35rem;
+  letter-spacing: -1px;
+}
+
+.subtitle {
+  color: #8892b0;
+  font-size: 1rem;
+  font-weight: 300;
+  letter-spacing: 0.4px;
+}
+
+.section-title {
+  color: #ccd6f6;
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+/* -----------------------------
+   File uploader (sin romperlo)
+   ----------------------------- */
+
+/* Estilo del dropzone */
+[data-testid="stFileUploaderDropzone"] {
+  position: relative;
+  border: 2px dashed rgba(0, 212, 255, 0.45) !important;
+  border-radius: 16px !important;
+  background: rgba(255, 255, 255, 0.03) !important;
+  padding: 1.35rem !important;
+  margin-bottom: 1rem !important;
+  transition: all 0.25s ease;
+}
+
+/* Texto overlay en español */
+[data-testid="stFileUploaderDropzone"]::before {
+  content: "Cargar o arrastrar imagen aquí (PNG / JPG)";
+  position: absolute;
+  left: 50%;
+  top: 48%;
+  transform: translate(-50%, -50%);
+  color: #ccd6f6;
+  font-size: 0.9rem;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  opacity: 0.9;
+  pointer-events: none;
+  text-align: center;
+}
+
+/* Oculta textos internos (pero NO ocultes el botón) */
+[data-testid="stFileUploaderDropzone"] span,
+[data-testid="stFileUploaderDropzone"] small {
+  display: none !important;
+}
+
+/* Hover */
+[data-testid="stFileUploaderDropzone"]:hover {
+  border-color: #00d4ff !important;
+  background: rgba(0, 212, 255, 0.06) !important;
+}
+
+/* Botones */
+.stButton>button {
+  width: 100%;
+  background: linear-gradient(135deg, #00d4ff 0%, #0099ff 100%);
+  color: #0a0e27;
+  border: none;
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  font-weight: 700;
+  font-size: 0.95rem;
+  letter-spacing: 0.5px;
+  transition: all 0.25s ease;
+  text-transform: uppercase;
+}
+
+.stButton>button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 212, 255, 0.28);
+}
+
+/* Imagen preview */
+.image-preview {
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid rgba(255,255,255,0.1);
+  margin: 0.85rem 0 1.25rem 0;
+}
+
+/* Result box + animación */
+.result-box {
+  background: linear-gradient(135deg, rgba(0, 212, 255, 0.14) 0%, rgba(0, 153, 255, 0.14) 100%);
+  border: 2px solid rgba(0, 212, 255, 0.35);
+  border-radius: 20px;
+  padding: 2.4rem;
+  margin-bottom: 1.25rem;
+  animation: glowPulse 3s ease-in-out infinite;
+  min-height: 200px;
+}
+
+@keyframes glowPulse {
+  0%   { box-shadow: 0 8px 24px rgba(0, 212, 255, 0.14); transform: translateY(0); }
+  50%  { box-shadow: 0 12px 40px rgba(0, 212, 255, 0.42); transform: translateY(-2px); }
+  100% { box-shadow: 0 8px 24px rgba(0, 212, 255, 0.14); transform: translateY(0); }
+}
+
+/* Layout interno del recuadro de resultados */
+.result-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.result-text { flex: 1; }
+
+.result-label {
+  color: #8892b0;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.prediction {
+  color: #00d4ff;
+  font-size: 3.25rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  text-shadow: 0 0 30px rgba(0, 212, 255, 0.25);
+  letter-spacing: -1px;
+}
+
+.confidence {
+  color: #ccd6f6;
+  font-size: 1.15rem;
+  font-weight: 300;
+}
+
+.confidence-value {
+  color: #00d4ff;
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
+/* Logo dentro del result-box - AGRANDADO */
+.result-logo {
+  flex: 0 0 auto;
+  width: 200px;
+  max-width: 200px;
+  height: auto;
+  opacity: 0.95;
+}
+
+.result-logo img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
+  filter: drop-shadow(0 8px 24px rgba(0,212,255,0.4));
+}
+
+/* SNR */
+.snr-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.1rem 1.2rem;
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 12px;
+  margin: 1rem 0 1.25rem 0;
+  border: 1px solid rgba(255,255,255,0.06);
+}
+
+.snr-badge {
+  padding: 0.55rem 1rem;
+  border-radius: 10px;
+  font-weight: 800;
+  font-size: 0.95rem;
+  letter-spacing: 1px;
+}
+
+.snr-high {
+  background: rgba(16, 185, 129, 0.18);
+  color: #10b981;
+  border: 1px solid rgba(16, 185, 129, 0.6);
+}
+
+.snr-medium {
+  background: rgba(245, 158, 11, 0.18);
+  color: #f59e0b;
+  border: 1px solid rgba(245, 158, 11, 0.6);
+}
+
+.snr-low {
+  background: rgba(239, 68, 68, 0.18);
+  color: #ef4444;
+  border: 1px solid rgba(239, 68, 68, 0.6);
+}
+
+.snr-description {
+  color: #8892b0;
+  font-size: 0.95rem;
+  flex: 1;
+}
+
+/* Expanders */
+.streamlit-expanderHeader {
+  background: rgba(255, 255, 255, 0.03);
+  color: #ccd6f6;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+/* Info / Warning */
+.stInfo {
+  background: rgba(0, 212, 255, 0.10);
+  border-left: 3px solid #00d4ff;
+  color: #ccd6f6;
+}
+
+.stWarning {
+  background: rgba(245, 158, 11, 0.10);
+  border-left: 3px solid #f59e0b;
+  color: #ccd6f6;
+}
+
+/* Ajustes para gráfica de barras - MÁS ALTURA */
+[data-testid="stVegaLiteChart"] {
+  min-height: 350px !important;
+}
+
+/* Botón de limpiar historial - MÁS PEQUEÑO */
+.history-actions button {
+  padding: 0.65rem 1rem !important;
+  font-size: 0.85rem !important;
+}
+
+/* Ocultar elementos Streamlit */
+#MainMenu { visibility: hidden; }
+footer { visibility: hidden; }
+header { visibility: hidden; }
+.block-container { padding-top: 1rem; }
