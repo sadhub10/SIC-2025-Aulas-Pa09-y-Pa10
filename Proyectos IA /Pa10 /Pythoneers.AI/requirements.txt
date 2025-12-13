@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+python-dotenv
+pydantic
+python-dateutil
+pyarrow
+geopandas
+osmnx
+seaborn
+joblib
+scikit-learn
+folium 
