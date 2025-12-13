@@ -1,0 +1,16 @@
+fastapi==0.111.0
+uvicorn==0.30.1
+python-multipart==0.0.9
+torch
+transformers
+sentence-transformers
+pdfplumber
+Pillow
+faiss-cpu
+numpy
+uvloop; sys_platform != 'win32'
+python-dotenv
+requests
+streamlit
+watchdog
+google-generativeai

@@ -1,0 +1,29 @@
+======================================================================
+ANÁLISIS COMPLETO DEL DATASET DE SALUD MENTAL
+======================================================================
+
+Fecha: 2025-12-10 17:08:13
+Dataset: C:\Users\Linette\PycharmProjects\mental-health-monitoring\data\raw\mental_health_dataset.csv
+Total de muestras: 53043
+Total de categorías: 7
+
+DISTRIBUCIÓN DE CATEGORÍAS:
+           Categoría  Cantidad  Porcentaje
+              Normal     16351       30.83
+          Depression     15404       29.04
+            Suicidal     10653       20.08
+             Anxiety      3888        7.33
+             Bipolar      2877        5.42
+              Stress      2669        5.03
+Personality disorder      1201        2.26
+
+CATEGORÍAS NEGATIVAS:
+  - Depression (15404 muestras)
+  - Suicidal (10653 muestras)
+  - Anxiety (3888 muestras)
+  - Bipolar (2877 muestras)
+  - Stress (2669 muestras)
+  - Personality disorder (1201 muestras)
+
+CATEGORÍAS POSITIVAS/NORMALES:
+  - Normal (16351 muestras)

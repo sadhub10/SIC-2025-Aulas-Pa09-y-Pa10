@@ -1,0 +1,6 @@
+streamlit>=1.18
+ultralytics>=8.0
+pillow
+pandas
+plotly
+opencv-python-headless

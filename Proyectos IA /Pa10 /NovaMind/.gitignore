@@ -1,0 +1,31 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sensitive
+.env
+*.env
+
+# Logs
+logs/
+*.log
+
+# Large data
+data/raw/
+data/tmp/
+*.csv
+
+# Model cache
+cache/
+models/
+transformers/
+
+# OS files
+.DS_Store
+Thumbs.db

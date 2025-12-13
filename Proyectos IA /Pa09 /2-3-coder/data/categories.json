@@ -1,0 +1,42 @@
+{
+  "names": [
+    "BIODEGRADABLE",
+    "CARDBOARD",
+    "GLASS",
+    "METAL",
+    "PAPER",
+    "PLASTIC"
+  ],
+  "info": {
+    "BIODEGRADABLE": {
+      "description": "Residuos orgánicos que pueden descomponerse de manera natural (restos de comida, desechos de jardín).",
+      "handling": "Recoger por separado para compostaje. No colocar en bolsas plásticas.",
+      "recyclable": "No"
+    },
+    "CARDBOARD": {
+      "description": "Cajas de cartón y empaques rígidos de papel.",
+      "handling": "Aplanar las cajas, mantenerlas secas y colocarlas en el contenedor de reciclaje de papel/cartón.",
+      "recyclable": "Sí"
+    },
+    "GLASS": {
+      "description": "Botellas de vidrio, frascos y artículos similares.",
+      "handling": "Enjuagar los envases, retirar las tapas y colocarlos en el contenedor de reciclaje de vidrio.",
+      "recyclable": "Sí"
+    },
+    "METAL": {
+      "description": "Latas de aluminio, latas de conserva y contenedores metálicos.",
+      "handling": "Enjuagar y aplastar cuando sea posible, colocar en el reciclaje de metales.",
+      "recyclable": "Sí"
+    },
+    "PAPER": {
+      "description": "Papel, periódicos, revistas.",
+      "handling": "Mantener seco y limpio, colocar junto con otros papeles/cartones para reciclaje.",
+      "recyclable": "Sí"
+    },
+    "PLASTIC": {
+      "description": "Botellas de plástico, envases y empaques plásticos.",
+      "handling": "Enjuagar los envases, revisar los códigos de reciclaje locales y colocar en el reciclaje de plástico.",
+      "recyclable": "Sí"
+    }
+  }
+}

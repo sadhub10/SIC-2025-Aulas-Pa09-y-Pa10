@@ -71,14 +71,7 @@ Proyecto-IA-PyBrAIn-2025-SIC/
 │
 ├── 📂 assets/                           # Recursos visuales y estilos
 │   ├── logo.png                         # Logo PyBrAIn
-│   ├── styles.css                       # Estilos personalizados CSS
-│   └── 📂 Screenshots/                  # Capturas de la aplicación
-│       ├── Captura1-ASK.png             # Ejemplo clasificación ASK
-│       ├── Captura1-PSK.png             # Ejemplo clasificación PSK
-│       ├── Captura1-QAM.png             # Ejemplo clasificación QAM
-│       ├── Captura2-ASK.png             
-│       ├── Captura2-PSK.png             
-│       └── Captura2-QAM.png             
+│   ├── styles.css                       # Estilos personalizados CSS        
 │
 ├── 📂 data/                             # Señales de ejemplo
 │   ├── ask_sample.png                   # Muestra de modulación ASK

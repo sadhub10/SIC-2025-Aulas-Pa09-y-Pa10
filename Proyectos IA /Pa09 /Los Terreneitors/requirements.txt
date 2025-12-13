@@ -1,0 +1,93 @@
+# ================================
+# CORE DATA SCIENCE
+# ================================
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# ================================
+# MACHINE LEARNING
+# ================================
+scikit-learn>=1.3.0
+imbalanced-learn>=0.11.0
+joblib>=1.3.0
+
+# ================================
+# NATURAL LANGUAGE PROCESSING
+# ================================
+nltk>=3.8.0
+spacy>=3.6.0
+
+# Descargar modelos de spaCy (ejecutar después de instalar):
+# python -m spacy download en_core_web_sm
+# python -m spacy download es_core_news_sm
+
+# ================================
+# DEEP LEARNING (opcional para Fase 2)
+# ================================
+# torch>=2.0.0
+# transformers>=4.30.0
+# tensorflow>=2.13.0
+
+# ================================
+# VISUALIZACIÓN
+# ================================
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# ================================
+# DASHBOARD Y WEB
+# ================================
+streamlit>=1.25.0
+
+# ================================
+# TRADUCCIÓN AUTOMÁTICA
+# ================================
+deep-translator>=1.11.0
+
+# ================================
+# UTILIDADES
+# ================================
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+
+# ================================
+# DESARROLLO Y TESTING
+# ================================
+pytest>=7.4.0
+black>=23.3.0
+flake8>=6.0.0
+ipykernel>=6.23.0
+
+# ================================
+# JUPYTER NOTEBOOKS
+# ================================
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# ================================
+# EXPORTACIÓN Y REPORTES
+# ================================
+fpdf>=1.7.2
+openpyxl>=3.1.0
+
+# ================================
+# NOTAS DE INSTALACIÓN
+# ================================
+# 
+# Para instalar todas las dependencias:
+# pip install -r requirements.txt
+#
+# Para instalar solo lo necesario para Fase 1:
+# pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn plotly streamlit deep-translator joblib nltk spacy
+#
+# Después de instalar spaCy, descargar los modelos de lenguaje:
+# python -m spacy download en_core_web_sm
+# python -m spacy download es_core_news_sm
+#
+# Para descargar datos de NLTK (ejecutar en Python):
+# import nltk
+# nltk.download('punkt')
+# nltk.download('stopwords')
+# nltk.download('wordnet')
