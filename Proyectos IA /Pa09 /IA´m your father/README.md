@@ -1,4 +1,4 @@
-## Sistema de Visión Artificial para Reconocimiento de Objetos Cotidianos (YOLOv8 + OpenCV)
+## Sistema de Visión Artificial para Reconocimiento de Objetos Cotidianos
 
 Herramienta simple para detectar objetos con la cámara web usando YOLOv8. Muestra cajas, clase, confianza y FPS en vivo.
 
@@ -49,4 +49,5 @@ python camara.py --fast
 
 ## Problemas comunes
 - No abre la cámara: cierra otras apps que la usen o prueba con `cv2.VideoCapture(1)`.
+
 
