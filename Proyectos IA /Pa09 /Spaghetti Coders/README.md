@@ -90,7 +90,6 @@ financial-dashboard/
 ├── Financial Statements.csv
 ├── README.md
 ├── requirements.txt
-└── assets/               # optional
 ```
 
 ---
@@ -108,8 +107,8 @@ cd financial-dashboard
 
 ```bash
 python -m venv venv
-source venv/bin/activate        # macOS / Linux
-venv\Scripts\activate           # Windows
+source venv/bin/activate        
+venv\Scripts\activate           
 ```
 
 ### 3. Install dependencies
