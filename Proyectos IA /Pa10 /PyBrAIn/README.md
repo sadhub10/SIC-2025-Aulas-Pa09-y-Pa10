@@ -146,10 +146,6 @@ El sistema mostrará:
 
 ---
 
-## 📊 Ejemplos de Uso
-
-<img width="1247" height="533" alt="image" src="https://github.com/user-attachments/assets/36e61a9e-d39f-4356-8757-144086d598f2" />
-<img width="1247" height="533" alt="image" src="https://github.com/user-attachments/assets/17180b80-25d7-46f7-9562-5dcebd6b2a29" />
 
 
 
